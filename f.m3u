@@ -1,385 +1,117 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="TV Abierta" aspect-ratio="16:9", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0 type="stream" channelId="3731" name="Azteca Uno (HD)" group="TV Abierta" aspect-ratio="16:9" tvg-country="MX" size="Small", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:0 type="stream" channelId="1954" group="TV Abierta", Canal Las Estrellas
-http://167.250.223.26:8085/play/a00a/index.m3u8
-#EXTINF:0 type="stream" channelId="255" name="Azteca 7" group="TV Abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:0 type="stream" channelId="2689" group="TV Abierta", ADN40
+
+# --- TV ABIERTA ---
+#EXTINF:0 group-title="TV Abierta", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:0 type="stream" channelId="341" group="Documentales", Discovery Channel HD
-http://181.78.109.48:9998/play/a065/index.m3u8
-#EXTINF:0 type="stream" channelId="57" group="Documentales", Discovery Channel
-http://181.78.109.48:9998/play/a04l/index.m3u8
-#EXTINF:0 type="stream" channelId="240" group="Documentales", Animal Planet HD
-http://181.78.109.48:9998/play/a02h/index.m3u8
-#EXTINF:0 type="stream" channelId="50" group="Documentales", Animal Planet
-http://181.78.109.48:9998/play/a04m/index.m3u8
-#EXTINF:0 type="stream" channelId="207" group="Documentales", Nat Geo HD
-http://181.78.109.48:9998/play/a062/index.m3u8
-#EXTINF:0 type="stream" channelId="56" group="Documentales", National Geographic
-http://181.78.109.48:9998/play/a01y/index.m3u8
-#EXTINF:0 type="stream" channelId="2620" group="Documentales", Discovery Home & Health
-http://181.78.109.48:9998/play/a05e/index.m3u8
-#EXTINF:0 type="stream" channelId="2146" name="Teleritmo" group="Musica" logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Peliculas", Golden Premiere HD
-http://181.78.109.48:9998/play/a00u/index.m3u8
-#EXTINF:0 type="stream" channelId="517" group="Adultos", Playboy TV
-http://181.78.109.48:9998/play/a01c/index.m3u8
-#EXTINF:0 type="stream" channelId="2585" group="Peliculas", HBO Plus HD
-http://38.199.4.160:93/play/a0c0
-#EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
-http://38.199.4.160:93/play/a0c1
-#EXTINF:0 type="stream" channelId="2724" group="Documentales", Home & Health HD
-http://38.199.4.160:93/play/a0be
-#EXTINF:0 type="stream" channelId="530" group="Peliculas", SONY HD
-http://38.199.4.160:93/play/a0bc
-#EXTINF:0 type="stream" channelId="2721" group="Adultos", Venus
-http://38.97.240.11:8000/play/a0in/index.m3u8
-#EXTINF:0 type="stream" channelId="2503" group="Documentales", A&E HD
-http://38.199.4.160:93/play/a0az
-#EXTINF:0 type="stream" channelId="1304" group="Peliculas", FX HD
-http://38.199.4.160:93/play/a0a7
-#EXTINF:0 type="stream" channelId="1456" group="Documentales", History HD
-http://38.199.4.160:93/play/a0ay
-#EXTINF:0 type="stream" channelId="207" group="Documentales", Nat Geo HD
-http://38.199.4.160:93/play/a0bo
-#EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
-http://38.199.4.160:93/play/a0ca
-#EXTINF:0 type="stream" channelId="-1" group="TV Abierta", Univision HD
-http://38.199.4.160:93/play/a0br
-#EXTINF:0 type="stream" channelId="2903" group="Peliculas", WARNER HD
-http://38.199.4.160:93/play/a0bb
-#EXTINF:0 type="stream" channelId="2584", HBO Family HD
-http://38.97.240.11:8000/play/a0fr/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
-http://38.97.240.11:8000/play/a0gm/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", HomeandHealth
-http://38.97.240.11:8000/play/a040/index.m3u8
-#EXTINF:0 type="stream" channelId="1973" group="Musica" tvg-country="MX", MTV
-http://38.97.240.11:8000/play/a0k0/index.m3u8
-#EXTINF:0 type="stream" channelId="188" group="Peliculas", Sony
-http://38.97.240.11:8000/play/a0lh/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://i.imgur.com/mioQAZS.png", MTV Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:0 type="stream" channelId="2146" group="Musica" logo="https://i.imgur.com/9s380Bz.png", Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/HV5tgcM.png", Vision Television
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/Dvo1b82.png", VM Latino (720p) [Not 24/7]
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:0 type="stream" channelId="341" group="Documentales", Discovery Channel HD
-http://190.171.83.2:4000/play/a0pn/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
-http://181.78.8.199:8000/play/a071/index.m3u8
-#EXTINF:0 type="stream" channelId="333" group="Adulto", Golden
-http://181.78.8.199:8000/play/a0cj/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
-http://190.171.83.2:4000/play/a0qc/index.m3u8
-#EXTINF:0 type="stream" channelId="1201" group="Documentales", History 2
-http://190.171.83.2:4000/play/a0mc/index.m3u8
-#EXTINF:0 type="stream" channelId="1456" group="Documentales", History Channel HD
-http://190.171.83.2:4000/play/a0po/index.m3u8
-#EXTINF:0 type="stream" channelId="1455" group="Documentales", HISTORY
-http://181.78.8.199:8000/play/a0an/index.m3u8
-#EXTINF:0 type="stream" channelId="1201" group="Documentales", HISTORY2
-http://181.78.8.199:8000/play/a0ag/index.m3u8
-#EXTINF:0 type="stream" channelId="1200" group="Estilo de vida", LIFETIME
-http://181.78.8.199:8000/play/a0ai/index.m3u8
-#EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
-http://190.171.83.2:4000/play/a0qf/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica", MUSICA HITS
-http://181.78.8.199:8000/play/a09u/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica", MUSICA POPULAR
-http://181.78.8.199:8000/play/a09v/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica", MUSICA REGUETON
-http://181.78.8.199:8000/play/a09r/index.m3u8
-#EXTINF:0 type="stream" channelId="207" group="Documentales", Nat Geo HD
-http://190.171.83.2:4000/play/a0pp/index.m3u8
-#EXTINF:0 type="stream" channelId="207" group="Documentales", Nat Geo HD
-http://181.78.8.199:8000/play/a093/index.m3u8
-#EXTINF:0 type="stream" channelId="56" group="Documentales", Nat Geo
-http://181.78.8.199:8000/play/a0c7/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Peliculas", Paramount HD
-http://181.78.8.199:8000/play/a06u/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Adultos", Playboy HD
-http://190.171.83.2:4000/play/a0q5/index.m3u8
-#EXTINF:0 type="stream" channelId="4801" group="Musica", RUMBA TV
-http://181.78.8.199:8000/play/a0ec/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", RUMBA TV HD
-http://181.78.8.199:8000/play/a0fy/index.m3u8
-#EXTINF:0 type="stream" channelId="2152" group="Adultos", Sextreme
-http://190.171.83.2:4000/play/a0mj/index.m3u8
-#EXTINF:0 type="stream" channelId="188" group="Peliculas", SONY CHANNEL
-http://181.78.8.199:8000/play/a0e6/index.m3u8
-#EXTINF:0 type="stream" channelId="1214" group="Peliculas", SONY MOVIES
-http://181.78.8.199:8000/play/a0ap/index.m3u8
-#EXTINF:0 type="stream" channelId="2896" group="Peliculas", Space HD
-http://190.171.83.2:4000/play/a0px/index.m3u8
-#EXTINF:0 type="stream" channelId="383" group="Peliculas", SPACE
-http://181.78.8.199:8000/play/a096/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Peliculas", STAR CHANNEL HD
-http://190.171.83.2:4000/play/a0q2/index.m3u8
-#EXTINF:0 type="stream" channelId="2721", Venus
-http://190.171.83.2:4000/play/a0mi/index.m3u8
-#EXTINF:0 type="stream" channelId="2903", Warner Channel HD
-http://190.171.83.2:4000/play/a0pu/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Peliculas", UNIVERSAL CHANNEL HD
-http://190.171.83.2:4000/play/a0qa/index.m3u8
-#EXTINF:11 type="stream" channelId="341" group="Documentales", Discovery Channel HD
-http://167.250.223.26:8085/play/a078/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", Discovery H&H
-http://167.250.223.26:8085/play/a04v/index.m3u8
-#EXTINF:0 type="stream" channelId="1201" group="Documentales", History2
-http://181.78.8.199:8000/play/a0cq/index.m3u8
-#EXTINF:0 type="stream" channelId="1966" group="Musica", TeleHit
-http://167.250.223.26:8085/play/a00f/index.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Deportes", TUDN
-http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Deportes" logo="https://th.bing.com/th/id/R.1c06b7fc0da730a809fab316c42be932?rik=4Ac7kMrICRhZFA&riu=http%3a%2f%2fcorporate.univision.com%2fnewco%2fwp-content%2fuploads%2f2019%2f05%2fTUDN_LOGO_COLOR.png&ehk=UGd%2fh0d8vaGxZ6qzNQP2Y1N%2fnLdjRKxfBfd27elY21I%3d&risl=&pid=ImgRaw&r=0", TUDN
-http://167.250.223.26:8085/play/a0b1/index.m3u8
-#EXTINF:0 type="stream" channelId="388" group="Entretenimiento", UNICABLE
-http://167.250.223.26:8085/play/a02w/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documental", ANIMAL PLANET R2
-http://167.250.223.26:8085/play/a06t/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documental", ANIMAL PLANET ORIG
-http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documental", ANIMAL PLANET R3
-http://190.171.83.2:4000/play/a0pm/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documental", ANIMAL PLANET R4
-http://181.78.8.199:8000/play/a06w/index.m3u8
-#EXTINF:11 type="stream" channelId="2503" group="Documentales", A&E HD
-http://190.171.83.2:4000/play/a0q9/index.m3u8
-#EXTINF:0 type="stream" channelId="2503" group="Documentales", A&E HD
-http://167.250.223.26:8085/play/a05z/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", AE
-http://181.78.8.199:8000/play/a0ct/index.m3u8
-#EXTINF:11 type="stream" channelId="-1" group="Documentales", AE
-http://181.78.8.199:8000/play/a0al/index.m3u8
-#EXTINF:11 type="stream" channelId="2501" group="Peliculas", AMC HD
-http://167.250.223.26:8085/play/a064/index.m3u8
-#EXTINF:0 type="stream" channelId="2501" group="Peliculas", AMC HD
-http://190.171.83.2:4000/play/a0le/index.m3u8
-#EXTINF:0 type="stream" channelId="1573" group="Peliculas", AXN
-http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:0 type="stream" channelId="1573" group="Peliculas", AXN
-http://181.78.8.199:8000/play/a0am/index.m3u8
-#EXTINF:0 type="stream" channelId="2719" group="Niños", Cartoon Network HD
-http://167.250.223.26:8085/play/a055/index.m3u8
-#EXTINF:0 type="stream" channelId="1326" group="Peliculas", Cinemax
-http://167.250.223.26:8085/play/a05a/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Comedia", COMEDY
-http://181.78.8.199:8000/play/a0e3/index.m3u8
-#EXTINF:0 type="stream" channelId="2152" group="Adultos", SEXTREME
-http://38.49.128.38:8000/play/a09c/index.m3u8
-#EXTINF:0 type="stream" channelId="2625" group="Peliculas", STUDIO UNIVERSAL
-http://38.49.128.38:8000/play/a0bh/index.m3u8
-#EXTINF:0 type="stream" channelId="341" group="Documentales", Discovery Channel HD
-http://45.5.119.43:4000/play/a0kn/index.m3u8
-#EXTINF:0 type="stream" channelId="59", DISCOVERY ID
-http://38.49.128.38:8000/play/a0ch/index.m3u8
-#EXTINF:0 type="stream" channelId="56" group="Documentales", NATGEO
-http://38.49.128.38:8000/play/a0cl/index.m3u8
-#EXTINF:0 type="stream" channelId="3750" group="Musica", Exa TV
-http://45.5.119.43:4000/play/a0hk/index.m3u8
-#EXTINF:0 type="stream" channelId="333" group="Adultos", Golden
-http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
-http://45.5.119.43:4000/play/a0l2/index.m3u8
-#EXTINF:0 type="stream" channelId="1456" group="Documentales", History Channel HD
-http://45.5.119.43:4000/play/a0gk/index.m3u8
-#EXTINF:0 type="stream" channelId="292" group="Adultos", MULTI PREMIER
-http://38.49.128.38:8000/play/a0cp/index.m3u8
-#EXTINF:0 type="stream" channelId="207" group="Documentales", Nat Geo HD
-http://45.5.119.43:4000/play/a0kk/index.m3u8
-#EXTINF:0 type="stream" channelId="517" group="Adultos", PLAYBOY
-http://45.5.119.43:4000/play/a02t/index.m3u8
-#EXTINF:0 type="stream" channelId="383" group="Peliculas", SPACE
-http://38.49.128.38:8000/play/a0cg/index.m3u8
-#EXTINF:0 type="stream" channelId="67" group="Estilo de vida", TLC
-http://45.5.119.43:4000/play/a0hh/index.m3u8
-#EXTINF:0 type="stream" channelId="388" group="Entretenimiento", UNICABLE
-http://38.49.128.38:8000/play/a0ov/index.m3u8
-#EXTINF:0 type="stream" channelId="2721" group="Adultos", VENUS
-http://45.5.119.43:4000/play/a02u/index.m3u8
-#EXTINF:0 type="stream" channelId="2035" group="Documentales", LOVE NATURE
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", NATURE TIME
-https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1959" group="Musica", BANDAMAX
-http://181.78.8.199:8000/play/a0g9/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", Pluto TV Naturaleza
-https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTINF:0 type="stream" channelId="133" group="TV Abierta" tvg-country="MX", CANAL 5 HD
-http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:0 type="stream" channelId="1951" group="TV Abierta", AZTECA 7 HD
+#EXTINF:0 group-title="TV Abierta", AZTECA 7 HD
 http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:0 type="stream" channelId="238" group="TV Abierta", Azcorazon
-http://45.5.119.43:4000/play/a0g6/index.m3u8
-#EXTINF:0 type="stream" channelId="228" group="TV Abierta", Azmundo
-http://45.5.119.43:4000/play/a0h8/index.m3u8
-#EXTINF:11 type="stream" channelId="321" group="Niños", Boomerang
-http://45.5.119.43:4000/play/a0g0/index.m3u8
-#EXTINF:0 type="stream" channelId="2698" group="TV Abierta", CANAL 22
+#EXTINF:0 group-title="TV Abierta", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0 group-title="TV Abierta", AZTECA UNO (HD)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0 group-title="TV Abierta", CANAL 5 HD
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:0 group-title="TV Abierta", CANAL 22
 http://38.49.128.38:8000/play/a0d7/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV Abierta", CANAL 26 AGUASCALIENTES
+#EXTINF:0 group-title="TV Abierta", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:0 type="stream" channelId="1955" group="TV Abierta", CANAL 5
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:0 type="stream" channelId="40" group="Niños", Cartoon Network
-http://45.5.119.43:4000/play/a029/index.m3u8
-#EXTINF:0 type="stream" channelId="283" group="Peliculas", Cine Latino
-http://45.5.119.43:4000/play/a0ik/index.m3u8
-#EXTINF:0 type="stream" channelId="1326" group="Peliculas", CINEMAX
-http://38.49.128.38:8000/play/a093/index.m3u8
-#EXTINF:0 type="stream" channelId="287" group="Deportes", Claro Sports  HD
-http://45.5.119.43:4000/play/a0kz/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV Abierta", CLICK HD
-http://38.49.128.38:8000/play/a0mh/index.m3u8
-#EXTINF:0 type="stream" channelId="1190" group="Comedia", COMEDY CENTRAL
-http://38.49.128.38:8000/play/a0b3/index.m3u8
-#EXTINF:0 type="stream" channelId="1952", DE PELICULA
-http://45.5.119.43:4000/play/a05n/index.m3u8
-#EXTINF:0 type="stream" channelId="2505" group="Niños", Discovery Kids
-http://45.5.119.43:4000/play/a03l/index.m3u8
-#EXTINF:0 type="stream" channelId="19" group="Niños", Disney channel
-http://45.5.119.43:4000/play/a0i8/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Niños", Disney JR
-http://45.5.119.43:4000/play/a0g1/index.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="Comedia", DISTRITO COMEDIA
-http://45.5.119.43:4000/play/a05l/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Niños", DreamWorks TV Latin America
-http://38.49.128.38:8000/play/a0no/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", EDGE
-http://38.49.128.38:8000/play/a0nh/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV Abierta", el9nueve SD
-http://38.49.128.38:8000/play/a0ow/index.m3u8
-#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV Abierta", ESTRELLAS HD
-http://38.49.128.38:8000/play/a0le/index.m3u8
-#EXTINF:0 type="stream" channelId="3750" group="Musica", EXA TV
-http://38.49.128.38:8000/play/a0lr/index.m3u8
-#EXTINF:0 type="stream" channelId="2749" group="Peliculas", fox channel
-http://38.49.128.38:8000/play/a08v/index.m3u8
-#EXTINF:0 type="stream" channelId="1304" group="Peliculas", FX HD
-http://45.5.119.43:4000/play/a0gw/index.m3u8
-#EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
-http://45.5.119.43:4000/play/a0l5/index.m3u8
-#EXTINF:0 type="stream" channelId="2585" group="Peliculas", HBO Plus HD
-http://45.5.119.43:4000/play/a0l4/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", HBO XTREME HD
-http://45.5.119.43:4000/play/a0l6/index.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Deportes", TUDN
-http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:0 type="stream" channelId="1201" group="Documentales", History 2
-http://45.5.119.43:4000/play/a0jp/index.m3u8
-#EXTINF:0 type="stream" channelId="2724" group="Documentales", Home & Health HD
-http://45.5.119.43:4000/play/a0hw/index.m3u8
-#EXTINF:0 type="stream" channelId="3552" group="Musica", LAMEJOR TV
-http://38.49.128.38:8000/play/a0ls/index.m3u8
-#EXTINF:0 type="stream" channelId="1200" group="Estilo de Vida", LIFE TIME
-http://38.49.128.38:8000/play/a0ci/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes", SKY Deportes
-http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:0 type="stream" channelId="473" group="Niños", Baby TV
-http://181.78.7.90:12500/play/a0hr/index.m3u8
-#EXTINF:0 type="stream" channelId="2840" group="Documentales", DISCOVERY TURBO
-http://181.78.7.90:12500/play/a0e6/index.m3u8
-#EXTINF:0 type="stream" channelId="341", Discovery Channel  HD
-http://181.78.7.90:12500/play/a0ms/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", Discovery H&H HD
-http://181.78.7.90:12500/play/a0hw/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", Discovery H&H HD
-http://181.78.7.90:12500/play/a0cw/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", E! Entertainment TV
-http://181.78.7.90:12500/play/a0ns/index.m3u8
-#EXTINF:0 type="stream" channelId="3746" group="Deportes", ESPN 2 HD
-http://181.78.7.90:12500/play/a0md/index.m3u8
-#EXTINF:0 type="stream" channelId="357" group="Deportes", ESPN 3 HD
-http://181.78.7.90:12500/play/a0nb/index.m3u8
-#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
-http://181.78.7.90:12500/play/a0kt/index.m3u8
-#EXTINF:0 type="stream" channelId="1304" group="Peliculas", FX HD
-http://181.78.7.90:12500/play/a0k8/index.m3u8
-#EXTINF:0 type="stream" channelId="213" group="Deportes", Fox Sports 3 HD
-http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica", Free Banda
-http://181.78.7.90:12500/play/a0pi/index.m3u8
-#EXTINF:0 type="stream" channelId="935" group="Peliculas", HBO 2
-http://181.78.7.90:12500/play/a0ga/index.m3u8
-#EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
-http://181.78.7.90:12500/play/a0m3/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
-http://181.78.7.90:12500/play/a0j3/index.m3u8
-#EXTINF:0 type="stream" channelId="2585", HBO Plus
-http://181.78.7.90:12500/play/a0g9/index.m3u8
-#EXTINF:0 type="stream" channelId="288" group="Musica", HTV
-http://181.78.7.90:12500/play/a0fv/index.m3u8
-#EXTINF:0 type="stream" channelId="288" group="Musica", HTV
-http://181.78.7.90:12500/play/a0dz/index.m3u8
-#EXTINF:0 type="stream" channelId="1201" group="Documentales", History 2
-http://181.78.7.90:12500/play/a0fi/index.m3u8
-#EXTINF:0 type="stream" channelId="1456" group="Documentales", History Channel HD
-http://181.78.7.90:12500/play/a0mt/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Documentales", LOVENATURENUEVO
-http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
-#EXTINF:0 type="stream" channelId="2287" group="TV Abierta", Las Estrellas HD
+#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS HD
 http://181.78.7.90:12500/play/a0q0/index.m3u8
-#EXTINF:0 type="stream" channelId="1200" group="Estilo de vida", Lifetime
-http://181.78.7.90:12500/play/a0nx/index.m3u8
-#EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
-http://181.78.7.90:12500/play/a0j4/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica", MUSICA POPULAR -  NEIVA
-http://181.78.7.90:12500/play/a0eg/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Peliculas", AMC Series
-http://181.78.7.90:12500/play/a0fu/index.m3u8
-#EXTINF:0 type="stream" channelId="207" group="Documentales", Nat Geo HD
-http://181.78.7.90:12500/play/a0mu/index.m3u8
-#EXTINF:0 type="stream" channelId="334" group="Niños", Nick HD
-http://181.78.7.90:12500/play/a0ji/index.m3u8
-#EXTINF:0 type="stream" channelId="322", Nick Jr
-http://181.78.7.90:12500/play/a0np/index.m3u8
-#EXTINF:0 type="stream" channelId="3781" group="Adultos", Pasiones HD
-http://181.78.7.90:12500/play/a0mk/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Adultos", Playboy HD
-http://181.78.7.90:12500/play/a0p7/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Peliculas", STAR CHANNEL HD
-http://181.78.7.90:12500/play/a0or/index.m3u8
-#EXTINF:0 type="stream" channelId="2152" group="Adultos", Sextreme
-http://181.78.7.90:12500/play/a0gu/index.m3u8
-#EXTINF:0 type="stream" channelId="530" group="Peliculas", Sony HD
-http://181.78.7.90:12500/play/a0mx/index.m3u8
-#EXTINF:0 type="stream" channelId="1214" group="Peliculas", Sony Movies
-http://181.78.7.90:12500/play/a0i9/index.m3u8
-#EXTINF:0 type="stream" channelId="2896" group="Peliculas", Space HD
+#EXTINF:0 group-title="TV Abierta", UNIVISION HD
+http://38.199.4.160:93/play/a0br
+
+# --- PELICULAS Y SERIES ---
+#EXTINF:0 group-title="Peliculas", AMC HD
+http://190.171.83.2:4000/play/a0le/index.m3u8
+#EXTINF:0 group-title="Peliculas", AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:0 group-title="Peliculas", CINE LATINO
+http://45.5.119.43:4000/play/a0ik/index.m3u8
+#EXTINF:0 group-title="Peliculas", CINEMAX
+http://38.49.128.38:8000/play/a093/index.m3u8
+#EXTINF:0 group-title="Peliculas", FX HD
+http://181.78.7.90:12500/play/a0k8/index.m3u8
+#EXTINF:0 group-title="Peliculas", HBO HD
+http://190.171.83.2:4000/play/a0qc/index.m3u8
+#EXTINF:0 group-title="Peliculas", HBO FAMILY HD
+http://45.5.119.43:4000/play/a0l5/index.m3u8
+#EXTINF:0 group-title="Peliculas", HBO PLUS HD
+http://45.5.119.43:4000/play/a0l4/index.m3u8
+#EXTINF:0 group-title="Peliculas", PARAMOUNT HD
+http://181.78.8.199:8000/play/a06u/index.m3u8
+#EXTINF:0 group-title="Peliculas", SONY MOVIES
+http://181.78.8.199:8000/play/a0ap/index.m3u8
+#EXTINF:0 group-title="Peliculas", SPACE HD
 http://181.78.7.90:12500/play/a0n1/index.m3u8
-#EXTINF:0 type="stream" channelId="177", Star Channel HD
-http://181.78.7.90:12500/play/a0ou/index.m3u8
-#EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
-http://181.78.7.90:12500/play/a0f4/index.m3u8
-#EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
+#EXTINF:0 group-title="Peliculas", STAR CHANNEL HD
+http://181.78.7.90:12500/play/a0or/index.m3u8
+#EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL HD
 http://181.78.7.90:12500/play/a0pw/index.m3u8
-#EXTINF:0 type="stream" channelId="67" group="Estilo de vida", TLC
-http://181.78.7.90:12500/play/a0nq/index.m3u8
-#EXTINF:0 type="stream" channelId="2900" group="Peliculas", TNT HD
+#EXTINF:0 group-title="Peliculas", TNT HD
 http://181.78.7.90:12500/play/a0mv/index.m3u8
-#EXTINF:0 type="stream" channelId="2900" group="Peliculas", TNT HD
-http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Novelas", TNT Novelas HD
-http://181.78.7.90:12500/play/a0na/index.m3u8
-#EXTINF:0 type="stream" channelId="3797" group="Peliculas", TNT Series HD
-http://181.78.7.90:12500/play/a0n8/index.m3u8
-#EXTINF:0 type="stream" channelId="2504" group="Novelas", Tlnovelas
-http://181.78.7.90:12500/play/a0p3/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Peliculas", UNIVERSAL CHANNEL HD
-http://181.78.7.90:12500/play/a0n6/index.m3u8
-#EXTINF:0 type="stream" channelId="2721" group="Adultos", Venus
-http://181.78.7.90:12500/play/a0p6/index.m3u8
-#EXTINF:0 type="stream" channelId="2903" group="Peliculas", Warner Channel HD
-http://181.78.7.90:12500/play/a0my/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes", Win Sports+ HD
+#EXTINF:0 group-title="Peliculas", WARNER CHANNEL HD
+http://190.171.83.2:4000/play/a0pu/index.m3u8
+
+# --- DOCUMENTALES ---
+#EXTINF:0 group-title="Documentales", A&E HD
+http://190.171.83.2:4000/play/a0q9/index.m3u8
+#EXTINF:0 group-title="Documentales", ANIMAL PLANET HD
+http://181.78.109.48:9998/play/a02h/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD
+http://190.171.83.2:4000/play/a0pn/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY HOME & HEALTH HD
+http://181.78.7.90:12500/play/a0hw/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY TURBO
+http://181.78.7.90:12500/play/a0e6/index.m3u8
+#EXTINF:0 group-title="Documentales", HISTORY CHANNEL HD
+http://190.171.83.2:4000/play/a0po/index.m3u8
+#EXTINF:0 group-title="Documentales", HISTORY 2
+http://190.171.83.2:4000/play/a0mc/index.m3u8
+#EXTINF:0 group-title="Documentales", NAT GEO HD
+http://190.171.83.2:4000/play/a0pp/index.m3u8
+#EXTINF:0 group-title="Documentales", LOVE NATURE
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+# --- DEPORTES ---
+#EXTINF:0 group-title="Deportes", CLARO SPORTS HD
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+#EXTINF:0 group-title="Deportes", ESPN HD
+http://181.78.7.90:12500/play/a0kt/index.m3u8
+#EXTINF:0 group-title="Deportes", ESPN 2 HD
+http://181.78.7.90:12500/play/a0md/index.m3u8
+#EXTINF:0 group-title="Deportes", FOX SPORTS 3 HD
+http://181.78.7.90:12500/play/a00r/index.m3u8
+#EXTINF:0 group-title="Deportes", TUDN
+http://167.250.223.26:8085/play/a00d/index.m3u8
+#EXTINF:0 group-title="Deportes", WIN SPORTS+ HD
 http://181.78.7.90:12500/play/a0p5/index.m3u8
+
+# --- NIÑOS ---
+#EXTINF:0 group-title="Niños", BABY TV
+http://181.78.7.90:12500/play/a0hr/index.m3u8
+#EXTINF:0 group-title="Niños", CARTOON NETWORK HD
+http://167.250.223.26:8085/play/a055/index.m3u8
+#EXTINF:0 group-title="Niños", DISCOVERY KIDS
+http://45.5.119.43:4000/play/a03l/index.m3u8
+#EXTINF:0 group-title="Niños", DISNEY CHANNEL
+http://45.5.119.43:4000/play/a0i8/index.m3u8
+#EXTINF:0 group-title="Niños", NICK HD
+http://181.78.7.90:12500/play/a0ji/index.m3u8
+
+# --- MUSICA ---
+#EXTINF:0 group-title="Musica", MTV HD
+http://190.171.83.2:4000/play/a0qf/index.m3u8
+#EXTINF:0 group-title="Musica", TELEHIT
+http://167.250.223.26:8085/play/a00f/index.m3u8
+#EXTINF:0 group-title="Musica", TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 group-title="Musica", EXA TV
+http://45.5.119.43:4000/play/a0hk/index.m3u8
+
+# --- ADULTOS ---
+#EXTINF:0 group-title="Adultos", PLAYBOY HD
+http://190.171.83.2:4000/play/a0q5/index.m3u8
+#EXTINF:0 group-title="Adultos", SEXTREME
+http://181.78.7.90:12500/play/a0gu/index.m3u8
+#EXTINF:0 group-title="Adultos", VENUS
+http://181.78.7.90:12500/play/a0p6/index.m3u8
