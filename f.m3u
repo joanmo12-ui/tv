@@ -198,6 +198,12 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 group-title="Musica", LAMEJOR TV
 http://38.49.128.38:8000/play/a0ls/index.m3u8
+#EXTINF:0 group-title="Musica", MUSICA HITS
+http://181.78.8.199:8000/play/a09u/index.m3u8
+#EXTINF:0 group-title="Musica", MUSICA POPULAR
+http://181.78.8.199:8000/play/a09v/index.m3u8
+#EXTINF:0 group-title="Musica", MUSICA POPULAR (Alt)
+http://181.78.7.90:12500/play/a0eg/index.m3u8
 #EXTINF:0 group-title="Musica", HTV
 http://181.78.7.90:12500/play/a0fv/index.m3u8
 #EXTINF:0 group-title="Musica", HTV (Alt)
@@ -210,12 +216,6 @@ http://190.171.83.2:4000/play/a0qf/index.m3u8
 http://181.78.7.90:12500/play/a0j4/index.m3u8
 #EXTINF:0 group-title="Musica" logo="https://i.imgur.com/mioQAZS.png", MTV Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8
-#EXTINF:0 group-title="Musica", MUSICA HITS
-http://181.78.8.199:8000/play/a09u/index.m3u8
-#EXTINF:0 group-title="Musica", MUSICA POPULAR
-http://181.78.8.199:8000/play/a09v/index.m3u8
-#EXTINF:0 group-title="Musica", MUSICA POPULAR (Alt)
-http://181.78.7.90:12500/play/a0eg/index.m3u8
 #EXTINF:0 group-title="Musica", MUSICA REGUETON
 http://181.78.8.199:8000/play/a09r/index.m3u8
 #EXTINF:0 group-title="Musica", RUMBA TV
@@ -398,6 +398,7 @@ http://190.171.83.2:4000/play/a0mi/index.m3u8
 http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:0 group-title="Adultos", VENUS (Alt 3)
 http://181.78.7.90:12500/play/a0p6/index.m3u8
+
 
 
 
