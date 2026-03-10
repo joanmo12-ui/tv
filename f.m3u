@@ -186,18 +186,24 @@ http://181.78.7.90:12500/play/a0p5/index.m3u8
 # --- MUSICA ---
 #EXTINF:0 group-title="Musica", BANDAMAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:0 group-title="Musica", TELEHIT
+http://167.250.223.26:8085/play/a00f/index.m3u8
 #EXTINF:0 group-title="Musica", EXA TV
 http://45.5.119.43:4000/play/a0hk/index.m3u8
 #EXTINF:0 group-title="Musica", EXA TV (Alt)
 http://38.49.128.38:8000/play/a0lr/index.m3u8
+#EXTINF:0 group-title="Musica" logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 group-title="Musica" logo="https://i.imgur.com/9s380Bz.png", Teleritmo (Alt)
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 group-title="Musica", LAMEJOR TV
+http://38.49.128.38:8000/play/a0ls/index.m3u8
 #EXTINF:0 group-title="Musica", FREE BANDA
 http://181.78.7.90:12500/play/a0pi/index.m3u8
 #EXTINF:0 group-title="Musica", HTV
 http://181.78.7.90:12500/play/a0fv/index.m3u8
 #EXTINF:0 group-title="Musica", HTV (Alt)
 http://181.78.7.90:12500/play/a0dz/index.m3u8
-#EXTINF:0 group-title="Musica", LAMEJOR TV
-http://38.49.128.38:8000/play/a0ls/index.m3u8
 #EXTINF:0 group-title="Musica", MTV
 http://38.97.240.11:8000/play/a0k0/index.m3u8
 #EXTINF:0 group-title="Musica", MTV HD
@@ -210,7 +216,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 http://181.78.8.199:8000/play/a09u/index.m3u8
 #EXTINF:0 group-title="Musica", MUSICA POPULAR
 http://181.78.8.199:8000/play/a09v/index.m3u8
-#EXTINF:0 group-title="Musica", MUSICA POPULAR - NEIVA
+#EXTINF:0 group-title="Musica", MUSICA POPULAR (Alt)
 http://181.78.7.90:12500/play/a0eg/index.m3u8
 #EXTINF:0 group-title="Musica", MUSICA REGUETON
 http://181.78.8.199:8000/play/a09r/index.m3u8
@@ -218,12 +224,6 @@ http://181.78.8.199:8000/play/a09r/index.m3u8
 http://181.78.8.199:8000/play/a0ec/index.m3u8
 #EXTINF:0 group-title="Musica", RUMBA TV HD
 http://181.78.8.199:8000/play/a0fy/index.m3u8
-#EXTINF:0 group-title="Musica", TELEHIT
-http://167.250.223.26:8085/play/a00f/index.m3u8
-#EXTINF:0 group-title="Musica" logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", TELERITMO
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0 group-title="Musica" logo="https://i.imgur.com/9s380Bz.png", Teleritmo (Alt)
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 group-title="Music" logo="https://i.imgur.com/HV5tgcM.png", Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:0 group-title="Music" logo="https://i.imgur.com/Dvo1b82.png", VM Latino (720p)
@@ -398,5 +398,6 @@ http://190.171.83.2:4000/play/a0mi/index.m3u8
 http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:0 group-title="Adultos", VENUS (Alt 3)
 http://181.78.7.90:12500/play/a0p6/index.m3u8
+
 
 
