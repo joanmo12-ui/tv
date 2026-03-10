@@ -220,9 +220,9 @@ http://181.78.8.199:8000/play/a09r/index.m3u8
 http://181.78.8.199:8000/play/a0ec/index.m3u8
 #EXTINF:0 group-title="Musica", RUMBA TV HD
 http://181.78.8.199:8000/play/a0fy/index.m3u8
-#EXTINF:0 group-title="Music" logo="https://i.imgur.com/HV5tgcM.png", Vision Television
+#EXTINF:0 group-title="Musica" logo="https://i.imgur.com/HV5tgcM.png", Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:0 group-title="Music" logo="https://i.imgur.com/Dvo1b82.png", VM Latino (720p)
+#EXTINF:0 group-title="Musica" logo="https://i.imgur.com/Dvo1b82.png", VM Latino (720p)
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0 group-title="Musica", FREE BANDA
 http://181.78.7.90:12500/play/a0pi/index.m3u8
@@ -396,6 +396,7 @@ http://190.171.83.2:4000/play/a0mi/index.m3u8
 http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:0 group-title="Adultos", VENUS (Alt 3)
 http://181.78.7.90:12500/play/a0p6/index.m3u8
+
 
 
 
