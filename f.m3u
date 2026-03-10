@@ -35,7 +35,6 @@ http://38.199.4.160:93/play/a0br
 #EXTINF:0 group-title="TV Abierta", CLICK HD
 http://38.49.128.38:8000/play/a0mh/index.m3u8
 
-
 # --- COMEDIA Y ENTRETENIMIENTO ---
 #EXTINF:0 group-title="Comedia", COMEDY
 http://181.78.8.199:8000/play/a0e3/index.m3u8
@@ -59,30 +58,6 @@ http://181.78.7.90:12500/play/a0nx/index.m3u8
 http://45.5.119.43:4000/play/a0hh/index.m3u8
 #EXTINF:0 group-title="Estilo de vida", TLC (Alt)
 http://181.78.7.90:12500/play/a0nq/index.m3u8
-
-# --- DEPORTES ---
-#EXTINF:0 group-title="Deportes", CLARO SPORTS HD
-http://45.5.119.43:4000/play/a0kz/index.m3u8
-#EXTINF:0 group-title="Deportes", ESPN HD
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:0 group-title="Deportes", ESPN HD (Alt)
-http://181.78.7.90:12500/play/a0kt/index.m3u8
-#EXTINF:0 group-title="Deportes", ESPN 2 HD
-http://181.78.7.90:12500/play/a0md/index.m3u8
-#EXTINF:0 group-title="Deportes", ESPN 3 HD
-http://181.78.7.90:12500/play/a0nb/index.m3u8
-#EXTINF:0 group-title="Deportes", FOX SPORTS 3 HD
-http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:0 group-title="Deportes", SKY DEPORTES
-http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:0 group-title="Deportes", TUDN
-http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (Alt)
-http://167.250.223.26:8085/play/a0b1/index.m3u8
-#EXTINF:0 group-title="Deportes", TUDN (Alt 2)
-http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:0 group-title="Deportes", WIN SPORTS+ HD
-http://181.78.7.90:12500/play/a0p5/index.m3u8
 
 # --- DOCUMENTALES ---
 #EXTINF:0 group-title="Documentales", A&E HD
@@ -185,6 +160,28 @@ http://181.78.8.199:8000/play/a0c7/index.m3u8
 http://38.49.128.38:8000/play/a0cl/index.m3u8
 #EXTINF:0 group-title="Documentales", PLUTO TV NATURALEZA
 https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8
+
+# --- DEPORTES ---
+#EXTINF:0 group-title="Deportes", CLARO SPORTS HD
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+#EXTINF:0 group-title="Deportes", ESPN HD
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:0 group-title="Deportes", ESPN HD (Alt)
+http://181.78.7.90:12500/play/a0kt/index.m3u8
+#EXTINF:0 group-title="Deportes", ESPN 2 HD
+http://181.78.7.90:12500/play/a0md/index.m3u8
+#EXTINF:0 group-title="Deportes", ESPN 3 HD
+http://181.78.7.90:12500/play/a0nb/index.m3u8
+#EXTINF:0 group-title="Deportes", FOX SPORTS 3 HD
+http://181.78.7.90:12500/play/a00r/index.m3u8
+#EXTINF:0 group-title="Deportes", SKY DEPORTES
+http://167.250.223.26:8085/play/a00d/index.m3u8
+#EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN
+http://167.250.223.26:8085/play/a0b1/index.m3u8
+#EXTINF:0 group-title="Deportes", TUDN (Alt)
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:0 group-title="Deportes", WIN SPORTS+ HD
+http://181.78.7.90:12500/play/a0p5/index.m3u8
 
 # --- MUSICA ---
 #EXTINF:0 group-title="Musica", BANDAMAX
@@ -401,4 +398,5 @@ http://190.171.83.2:4000/play/a0mi/index.m3u8
 http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:0 group-title="Adultos", VENUS (Alt 3)
 http://181.78.7.90:12500/play/a0p6/index.m3u8
+
 
