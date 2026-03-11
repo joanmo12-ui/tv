@@ -76,17 +76,13 @@ http://167.250.223.26:8085/play/a05z/index.m3u8
 http://181.78.8.199:8000/play/a0ct/index.m3u8
 #EXTINF:0 group-title="Documentales", AE (Alt 4)
 http://181.78.8.199:8000/play/a0al/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET HD
-http://181.78.109.48:9998/play/a02h/index.m3u8
 #EXTINF:0 group-title="Documentales", ANIMAL PLANET
+http://181.78.109.48:9998/play/a02h/index.m3u8
+#EXTINF:0 group-title="Documentales", ANIMAL PLANET (Alt)
 http://181.78.109.48:9998/play/a04m/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET R2
-http://167.250.223.26:8085/play/a06t/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET ORIG
+#EXTINF:0 group-title="Documentales", ANIMAL PLANET (Alt 2)
 http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET R3
-http://190.171.83.2:4000/play/a0pm/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET R4
+#EXTINF:0 group-title="Documentales", ANIMAL PLANET (Alt 3)
 http://181.78.8.199:8000/play/a06w/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD
 http://181.78.109.48:9998/play/a065/index.m3u8
@@ -396,6 +392,7 @@ http://181.78.7.90:12500/play/a0my/index.m3u8
 http://45.5.119.43:4000/play/a02u/index.m3u8
 # #EXTINF:0 group-title="Adultos", VENUS (Alt 3)
 # http://181.78.7.90:12500/play/a0p6/index.m3u8
+
 
 
 
