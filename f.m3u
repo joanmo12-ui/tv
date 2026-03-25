@@ -2,38 +2,41 @@
 # --- TV ABIERTA ---
 #EXTINF:0 group-title="TV Abierta", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 group-title="TV Abierta", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS HD
+http://38.49.128.38:8000/play/a0le/index.m3u8
+#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS HD (Alt)
+http://181.78.7.90:12500/play/a0q0/index.m3u8
+#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS (Alt 2)
+http://167.250.223.26:8085/play/a00a/index.m3u8
+#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS (Alt 3)
+http://190.60.52.28:5001/play/a0g8/index.m3u8
+#EXTINF:0 group-title="TV Abierta", CANAL 5 HD
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:0 group-title="TV Abierta", CANAL 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 group-title="TV Abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:0 group-title="TV Abierta", AZTECA 7 HD
 http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:0 group-title="TV Abierta", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0 group-title="TV Abierta", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0 group-title="TV Abierta", EL9NUEVE SD
+http://38.49.128.38:8000/play/a0ow/index.m3u8
+
 #EXTINF:0 group-title="TV Abierta", AZCORAZON
 http://45.5.119.43:4000/play/a0g6/index.m3u8
 #EXTINF:0 group-title="TV Abierta", AZMUNDO
 http://45.5.119.43:4000/play/a0h8/index.m3u8
-#EXTINF:0 group-title="TV Abierta", CANAL 5 HD
-http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:0 group-title="TV Abierta", CANAL 5
-http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 group-title="TV Abierta", CANAL 22
 http://38.49.128.38:8000/play/a0d7/index.m3u8
 #EXTINF:0 group-title="TV Abierta", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:0 group-title="TV Abierta", EL9NUEVE SD
-http://38.49.128.38:8000/play/a0ow/index.m3u8
-#EXTINF:0 group-title="TV Abierta", ESTRELLAS HD
-http://38.49.128.38:8000/play/a0le/index.m3u8
-#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS HD (Alt)
-http://181.78.7.90:12500/play/a0q0/index.m3u8
-#EXTINF:0 group-title="TV Abierta", CANAL LAS ESTRELLAS
-http://167.250.223.26:8085/play/a00a/index.m3u8
-#EXTINF:0 group-title="TV Abierta", UNIVISION HD
-http://38.199.4.160:93/play/a0br
 #EXTINF:0 group-title="TV Abierta", CLICK HD
 http://38.49.128.38:8000/play/a0mh/index.m3u8
+#EXTINF:0 group-title="TV Abierta", UNIVISION HD
+http://38.199.4.160:93/play/a0br
 
 # --- COMEDIA Y ENTRETENIMIENTO ---
 #EXTINF:0 group-title="Comedia", COMEDY
