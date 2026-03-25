@@ -363,39 +363,6 @@ http://190.171.83.2:4000/play/a0pu/index.m3u8
 #EXTINF:0 group-title="Peliculas", WARNER CHANNEL HD (Alt)
 http://181.78.7.90:12500/play/a0my/index.m3u8
 
-# # --- ADULTOS ---
-# #EXTINF:0 group-title="Adultos", Golden
-# http://181.78.8.199:8000/play/a0cj/index.m3u8
-# #EXTINF:0 group-title="Adultos", Golden (Alt)
-# http://45.5.119.43:4000/play/a0jv/index.m3u8
-# #EXTINF:0 group-title="Adultos", MULTI PREMIER
-# http://38.49.128.38:8000/play/a0cp/index.m3u8
-# #EXTINF:0 group-title="Adultos", PASIONES HD
-# http://181.78.7.90:12500/play/a0mk/index.m3u8
-# #EXTINF:0 group-title="Adultos", PLAYBOY
-# http://181.78.109.48:9998/play/a01c/index.m3u8
-# #EXTINF:0 group-title="Adultos", PLAYBOY (Alt)
-# http://45.5.119.43:4000/play/a02t/index.m3u8
-# #EXTINF:0 group-title="Adultos", PLAYBOY HD
-# http://190.171.83.2:4000/play/a0q5/index.m3u8
-# #EXTINF:0 group-title="Adultos", PLAYBOY HD (Alt)
-# http://181.78.7.90:12500/play/a0p7/index.m3u8
-# #EXTINF:0 group-title="Adultos", SEXTREME
-# http://190.171.83.2:4000/play/a0mj/index.m3u8
-# #EXTINF:0 group-title="Adultos", SEXTREME (Alt)
-# http://181.78.7.90:12500/play/a0gu/index.m3u8
-# #EXTINF:0 group-title="Adultos", SEXTREME (Alt 2)
-# http://38.49.128.38:8000/play/a09c/index.m3u8
-# #EXTINF:0 group-title="Adultos", VENUS
-# http://38.97.240.11:8000/play/a0in/index.m3u8
-# #EXTINF:0 group-title="Adultos", VENUS (Alt)
-# http://190.171.83.2:4000/play/a0mi/index.m3u8
-# #EXTINF:0 group-title="Adultos", VENUS (Alt 2)
-# http://45.5.119.43:4000/play/a02u/index.m3u8
-# #EXTINF:0 group-title="Adultos", VENUS (Alt 3)
-# http://181.78.7.90:12500/play/a0p6/index.m3u8
-
-
 
 
 
