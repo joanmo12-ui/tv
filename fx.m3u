@@ -1,5 +1,5 @@
 #EXTM3U
-# --- ADULTOS ---
+# --- AD ---
 #EXTINF:0 group-title="Adultos", Golden
 http://181.78.8.199:8000/play/a0cj/index.m3u8
 #EXTINF:0 group-title="Adultos", Golden (Alt)
