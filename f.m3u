@@ -5,7 +5,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 group-title="TV Abierta", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 group-title="TV Abierta", Azteca Uno (Alt)
-
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?
 https://190.60.52.28:5001/play/a0co/index.m3u8
 #EXTINF:0 group-title="TV Abierta", Azteca Uno -1 Hora
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
@@ -197,24 +197,28 @@ http://167.250.223.26:8085/play/a0b1/index.m3u8
 http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:0 group-title="Deportes", TUDN (Alt 2)
 http://45.186.105.214:8000/play/a05r/index.m3u8
+#EXTINF:0 group-title="Deportes", TUDN (Alt 3)
+http://148.230.28.85:8002/play/014
 #EXTINF:0 group-title="Deportes", WIN SPORTS+ HD
 http://181.78.7.90:12500/play/a0p5/index.m3u8
 
 # --- MUSICA ---
-#EXTINF:0 group-title="Musica", TELEHIT
-http://167.250.223.26:8085/play/a00f/index.m3u8
-#EXTINF:0 group-title="Musica", EXA TV
-http://45.5.119.43:4000/play/a0hk/index.m3u8
-#EXTINF:0 group-title="Musica", EXA TV (Alt)
-http://38.49.128.38:8000/play/a0lr/index.m3u8
 #EXTINF:0 group-title="Musica", BANDAMAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:0 group-title="Musica", BANDAMAX (Alt)
+http://148.230.28.85:8002/play/027
 #EXTINF:0 group-title="Musica" logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 group-title="Musica" logo="https://i.imgur.com/9s380Bz.png", Teleritmo (Alt)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 group-title="Musica", EXA TV
+http://45.5.119.43:4000/play/a0hk/index.m3u8
+#EXTINF:0 group-title="Musica", EXA TV (Alt)
+http://38.49.128.38:8000/play/a0lr/index.m3u8
 #EXTINF:0 group-title="Musica", LAMEJOR TV
 http://38.49.128.38:8000/play/a0ls/index.m3u8
+#EXTINF:0 group-title="Musica", TELEHIT
+http://167.250.223.26:8085/play/a00f/index.m3u8
 #EXTINF:0 group-title="Musica", MUSICA HITS
 http://181.78.8.199:8000/play/a09u/index.m3u8
 #EXTINF:0 group-title="Musica", MUSICA POPULAR
