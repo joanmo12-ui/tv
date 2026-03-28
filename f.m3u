@@ -32,7 +32,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:0 group-title="TV Abierta", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0 group-title="TV Abierta", EL9NUEVE SD
+#EXTINF:0 group-title="TV Abierta", EL NUEVE
 http://38.49.128.38:8000/play/a0ow/index.m3u8
 #EXTINF:0 group-title="TV Abierta", AZCORAZON
 http://45.5.119.43:4000/play/a0g6/index.m3u8
