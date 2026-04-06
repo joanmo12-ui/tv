@@ -186,7 +186,7 @@ http://181.78.7.90:12500/play/a0kt/index.m3u8
 http://181.78.7.90:12500/play/a0md/index.m3u8
 #EXTINF:0 group-title="Deportes", ESPN 3 HD
 http://181.78.7.90:12500/play/a0nb/index.m3u8
-#EXTINF:0 group-title="Deportes", FOX SPORTS 3 HD
+#EXTINF:0 group-title="Deportes", ESPN 6 HD
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:0 group-title="Deportes", SKY DEPORTES
 http://167.250.223.26:8085/play/a00d/index.m3u8
