@@ -99,14 +99,16 @@ http://181.78.8.199:8000/play/a06w/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD
 http://181.78.109.48:9998/play/a065/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD (Alt)
-http://45.5.118.152:8000/play/a0ac/index.m3u8
+http://190.60.52.28:5001/play/a0f9/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD (Alt 2)
 http://167.250.223.26:8085/play/a078/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD (Alt 3)
 http://45.5.119.43:4000/play/a0kn/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD (Alt 4)
 http://181.78.7.90:12500/play/a0ms/index.m3u8
-#EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL (SD)
+#EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL HD (Alt 5)
+http://45.5.118.152:8000/play/a0ac/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL (Alt 6)
 http://181.78.109.48:9998/play/a04l/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY ID
 http://38.49.128.38:8000/play/a0ch/index.m3u8
