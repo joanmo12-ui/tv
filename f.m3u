@@ -18,7 +18,7 @@ http://181.78.7.90:12500/play/a0q0/index.m3u8
 http://167.250.223.26:8085/play/a00a/index.m3u8
 #EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS (Alt 3)
 http://190.60.52.28:5001/play/a0g8/index.m3u8
-#EXTINF:0 group-title="TV Abierta", FORO TV
+#EXTINF:0 group-title="TV Abierta" logo="https://es.wikipedia.org/wiki/Archivo:Logo-ForoTV-2020.png", FORO TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 #EXTINF:0 group-title="TV Abierta", IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -48,12 +48,12 @@ http://38.49.128.38:8000/play/a0mh/index.m3u8
 http://38.199.4.160:93/play/a0br
 
 # --- COMEDIA Y ENTRETENIMIENTO ---
-#EXTINF:0 group-title="Comedia", COMEDY
+#EXTINF:0 group-title="Comedia", DISTRITO COMEDIA
 http://181.78.8.199:8000/play/a0e3/index.m3u8
+#EXTINF:0 group-title="Comedia", DISTRITO COMEDIA (Alt)
+http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:0 group-title="Comedia", COMEDY CENTRAL
 http://38.49.128.38:8000/play/a0b3/index.m3u8
-#EXTINF:0 group-title="Comedia", DISTRITO COMEDIA
-http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", E! Entertainment TV
 http://181.78.7.90:12500/play/a0ns/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", UNICABLE
@@ -150,7 +150,7 @@ http://45.5.119.43:4000/play/a0jp/index.m3u8
 http://181.78.7.90:12500/play/a0fi/index.m3u8
 #EXTINF:0 group-title="Documentales", LOVE NATURE
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:0 group-title="Documentales", LOVENATURE NUEVO
+#EXTINF:0 group-title="Documentales", LOVE NATURE (Alt)
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:0 group-title="Documentales", NATURE TIME
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
