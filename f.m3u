@@ -336,18 +336,19 @@ http://181.78.7.90:12500/play/a0g9/index.m3u8
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:0 group-title="Peliculas", PARAMOUNT HD
 http://181.78.8.199:8000/play/a06u/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", SONY HD
 http://38.199.4.160:93/play/a0bc
 #EXTINF:0 group-title="Peliculas", SONY HD (Alt)
 http://181.78.7.90:12500/play/a0mx/index.m3u8
 #EXTINF:0 group-title="Peliculas", SONY CHANNEL
 http://181.78.8.199:8000/play/a0e6/index.m3u8
+#EXTINF:0 group-title="Peliculas", SONY
+http://38.97.240.11:8000/play/a0lh/index.m3u8
 #EXTINF:0 group-title="Peliculas", SONY MOVIES
 http://181.78.8.199:8000/play/a0ap/index.m3u8
 #EXTINF:0 group-title="Peliculas", SONY MOVIES (Alt)
 http://181.78.7.90:12500/play/a0i9/index.m3u8
-#EXTINF:0 group-title="Peliculas", SONY
-http://38.97.240.11:8000/play/a0lh/index.m3u8
 #EXTINF:0 group-title="Peliculas", SPACE HD
 http://190.171.83.2:4000/play/a0px/index.m3u8
 #EXTINF:0 group-title="Peliculas", SPACE HD (Alt)
