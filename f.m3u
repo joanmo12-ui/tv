@@ -223,7 +223,10 @@ http://38.49.128.38:8000/play/a0lr/index.m3u8
 #EXTINF:0 group-title="Musica", LAMEJOR TV
 http://38.49.128.38:8000/play/a0ls/index.m3u8
 #EXTINF:0 group-title="Musica", TELEHIT
-http://167.250.223.26:8085/play/a00f/index.m3u8
+http://45.5.118.152:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="Musica", TELEHIT(Alt)
+http://148.230.28.85:8002/play/028
+
 #EXTINF:0 group-title="Musica", MUSICA HITS
 http://181.78.8.199:8000/play/a09u/index.m3u8
 #EXTINF:0 group-title="Musica", MUSICA POPULAR
