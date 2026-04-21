@@ -56,12 +56,36 @@ http://181.78.8.199:8000/play/a0e3/index.m3u8
 http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:0 group-title="Comedia", COMEDY CENTRAL
 http://38.49.128.38:8000/play/a0b3/index.m3u8
-#EXTINF:0 group-title="Entretenimiento", E! Entertainment TV
-http://181.78.7.90:12500/play/a0ns/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", UNICABLE
 http://167.250.223.26:8085/play/a02w/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt)
 http://38.49.128.38:8000/play/a0ov/index.m3u8
+
+# --- NIÑOS ---
+#EXTINF:0 group-title="Niños", BABY TV
+http://181.78.7.90:12500/play/a0hr/index.m3u8
+#EXTINF:0 group-title="Niños", BOOMERANG
+http://45.5.119.43:4000/play/a0g0/index.m3u8
+#EXTINF:0 group-title="Niños", CARTOON NETWORK HD
+http://167.250.223.26:8085/play/a055/index.m3u8
+#EXTINF:0 group-title="Niños", CARTOON NETWORK (SD)
+http://45.5.119.43:4000/play/a029/index.m3u8
+#EXTINF:0 group-title="Niños", DISCOVERY KIDS
+http://45.5.119.43:4000/play/a03l/index.m3u8
+#EXTINF:0 group-title="Niños", DISNEY CHANNEL
+http://45.5.119.43:4000/play/a0i8/index.m3u8
+#EXTINF:0 group-title="Niños", DISNEY JR
+http://45.5.119.43:4000/play/a0g1/index.m3u8
+#EXTINF:0 group-title="Niños", DREAMWORKS TV
+http://38.49.128.38:8000/play/a0no/index.m3u8
+#EXTINF:0 group-title="Niños", NICK HD
+http://181.78.7.90:12500/play/a0ji/index.m3u8
+#EXTINF:0 group-title="Niños", NICK JR
+http://181.78.7.90:12500/play/a0np/index.m3u8
+
+
+
+# --- ESTILO DE VIDA ---
 #EXTINF:0 group-title="Estilo de vida", LIFETIME
 http://181.78.8.199:8000/play/a0ai/index.m3u8
 #EXTINF:0 group-title="Estilo de vida", LIFETIME (Alt)
@@ -72,6 +96,8 @@ http://181.78.7.90:12500/play/a0nx/index.m3u8
 http://45.5.119.43:4000/play/a0hh/index.m3u8
 #EXTINF:0 group-title="Estilo de vida", TLC (Alt)
 http://181.78.7.90:12500/play/a0nq/index.m3u8
+#EXTINF:0 group-title="Estilo de vida", E! Entertainment TV
+http://181.78.7.90:12500/play/a0ns/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", MTV
 http://38.97.240.11:8000/play/a0k0/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", MTV HD
@@ -180,6 +206,14 @@ http://38.49.128.38:8000/play/a0cl/index.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8
 
 # --- DEPORTES ---
+#EXTINF:0 group-title="Deportes", TUDN
+http://148.230.28.85:8002/play/014
+#EXTINF:0 group-title="Deportes", TUDN (Alt 1)
+http://45.186.105.214:8000/play/a05r/index.m3u8
+#EXTINF:0 group-title="Deportes", TUDN (Alt 2)
+http://148.230.28.85:8002/play/014
+#EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (Alt 3)
+http://167.250.223.26:8085/play/a0b1/index.m3u8
 #EXTINF:0 group-title="Deportes", CLARO SPORTS HD
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 #EXTINF:0 group-title="Deportes", Fox Sports
@@ -196,14 +230,7 @@ http://181.78.7.90:12500/play/a0nb/index.m3u8
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:0 group-title="Deportes", SKY DEPORTES
 http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN
-http://167.250.223.26:8085/play/a0b1/index.m3u8
-#EXTINF:0 group-title="Deportes", TUDN (Alt)
-http://148.230.28.85:8002/play/014
-#EXTINF:0 group-title="Deportes", TUDN (Alt 2)
-http://45.186.105.214:8000/play/a05r/index.m3u8
-#EXTINF:0 group-title="Deportes", TUDN (Alt 3)
-http://148.230.28.85:8002/play/014
+
 #EXTINF:0 group-title="Deportes", WIN SPORTS+ HD
 http://181.78.7.90:12500/play/a0p5/index.m3u8
 
@@ -252,27 +279,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0 group-title="Musica", FREE BANDA
 http://181.78.7.90:12500/play/a0pi/index.m3u8
 
-# --- NIÑOS ---
-#EXTINF:0 group-title="Niños", BABY TV
-http://181.78.7.90:12500/play/a0hr/index.m3u8
-#EXTINF:0 group-title="Niños", BOOMERANG
-http://45.5.119.43:4000/play/a0g0/index.m3u8
-#EXTINF:0 group-title="Niños", CARTOON NETWORK HD
-http://167.250.223.26:8085/play/a055/index.m3u8
-#EXTINF:0 group-title="Niños", CARTOON NETWORK (SD)
-http://45.5.119.43:4000/play/a029/index.m3u8
-#EXTINF:0 group-title="Niños", DISCOVERY KIDS
-http://45.5.119.43:4000/play/a03l/index.m3u8
-#EXTINF:0 group-title="Niños", DISNEY CHANNEL
-http://45.5.119.43:4000/play/a0i8/index.m3u8
-#EXTINF:0 group-title="Niños", DISNEY JR
-http://45.5.119.43:4000/play/a0g1/index.m3u8
-#EXTINF:0 group-title="Niños", DREAMWORKS TV
-http://38.49.128.38:8000/play/a0no/index.m3u8
-#EXTINF:0 group-title="Niños", NICK HD
-http://181.78.7.90:12500/play/a0ji/index.m3u8
-#EXTINF:0 group-title="Niños", NICK JR
-http://181.78.7.90:12500/play/a0np/index.m3u8
 
 # --- NOVELAS Y SERIES ---
 #EXTINF:0 group-title="Novelas", TLNOVELAS
