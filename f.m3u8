@@ -184,6 +184,8 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:0 group-title="Documentales", NATURE TIME
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:0 group-title="Documentales", NATURE TIME(Alt)
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:0 group-title="Documentales", NAT GEO HD
 http://181.78.109.48:9998/play/a062/index.m3u8
 #EXTINF:0 group-title="Documentales", NAT GEO HD (Alt)
