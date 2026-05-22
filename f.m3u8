@@ -60,14 +60,18 @@ http://181.78.8.199:8000/play/a0e3/index.m3u8
 http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:0 group-title="Comedia", COMEDY CENTRAL
 http://38.49.128.38:8000/play/a0b3/index.m3u8
-#EXTINF:0 group-title="Entretenimiento", UNICABLE
-http://167.250.223.26:8085/play/a02w/index.m3u8
-#EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt)
-http://38.49.128.38:8000/play/a0ov/index.m3u8
+
+       #EXTINF:0 group-title="Entretenimiento", UNICABLE
+       http://38.49.128.38:8000/play/a0ov/index.m3u8
+       #EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt)
+       http://167.250.223.26:8085/play/a02w/index.m3u8
 
 # --- NIÑOS ---
 #EXTINF:0 group-title="Niños", BABY TV
-http://181.78.7.90:12500/play/a0hr/index.m3u8
+http://181.209.96.155:10000/play/a12c/index.m3u8
+#EXTINF:0 group-title="Niños", BABY TV(Alt)
+http://45.171.64.30:8800/play/a008
+
 #EXTINF:0 group-title="Niños", BOOMERANG
 http://45.5.119.43:4000/play/a0g0/index.m3u8
 #EXTINF:0 group-title="Niños", CARTOON NETWORK HD
