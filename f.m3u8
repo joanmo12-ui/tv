@@ -36,7 +36,6 @@ http://38.49.128.38:8000/play/a0la/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
        #EXTINF:0 group-title="TV Abierta", EL NUEVE
        http://38.49.128.38:8000/play/a0ow/index.m3u8
-
 #EXTINF:0 group-title="TV Abierta", AZCORAZON
 http://45.5.119.43:4000/play/a0g6/index.m3u8
 #EXTINF:0 group-title="TV Abierta", AZMUNDO
@@ -47,8 +46,10 @@ http://38.49.128.38:8000/play/a0d7/index.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:0 group-title="TV Abierta", CLICK HD
 http://38.49.128.38:8000/play/a0mh/index.m3u8
-#EXTINF:0 group-title="TV Abierta", UNIVISION HD
-http://186.33.25.234:8125/play/a06g/index.m3u8
+#EXTINF:0 group-title="TV Abierta", UNIVISION
+http://187.245.231.226:8000/play/a0q3/index.m3u8
+#EXTINF:0 group-title="TV Abierta", UNIVISION (Alt)
+http://45.171.64.30:8800/play/a05d
 
 # --- COMEDIA Y ENTRETENIMIENTO ---
 #EXTINF:0 group-title="Comedia", DISTRITO COMEDIA
