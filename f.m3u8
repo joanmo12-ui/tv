@@ -72,11 +72,12 @@ http://181.209.96.155:10000/play/a12c/index.m3u8
 #EXTINF:0 group-title="Niños", BABY TV(Alt)
 http://45.171.64.30:8800/play/a008
 
-#EXTINF:0 group-title="Niños", BOOMERANG
-http://45.5.119.43:4000/play/a0g0/index.m3u8
-#EXTINF:0 group-title="Niños", CARTOON NETWORK HD
-http://167.250.223.26:8085/play/a055/index.m3u8
-#EXTINF:0 group-title="Niños", CARTOON NETWORK (SD)
+       #EXTINF:0 group-title="Niños", BOOMERANG
+       http://45.5.119.43:4000/play/a0g0/index.m3u8
+
+#EXTINF:0 group-title="Niños", CARTOON NETWORK
+http://186.33.25.234:8125/play/a00s/index.m3u8
+#EXTINF:0 group-title="Niños", CARTOON NETWORK (Alt)
 http://45.5.119.43:4000/play/a029/index.m3u8
 #EXTINF:0 group-title="Niños", DISCOVERY KIDS
 http://45.5.119.43:4000/play/a03l/index.m3u8
