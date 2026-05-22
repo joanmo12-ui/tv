@@ -66,6 +66,8 @@ http://38.49.128.38:8000/play/a0b3/index.m3u8
        #EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt)
        http://167.250.223.26:8085/play/a02w/index.m3u8
 
+
+
 # --- NIÑOS ---
 #EXTINF:0 group-title="Niños", BABY TV
 http://181.209.96.155:10000/play/a12c/index.m3u8
@@ -128,9 +130,9 @@ http://45.5.116.177:8015/play/a0gr/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", MTV
 http://38.97.240.11:8000/play/a0k0/index.m3u8
 #EXTINF:0 group-title="Entretenimiento", MTV (Alt)
-http://190.171.83.2:4000/play/a0qf/index.m3u8
-#EXTINF:0 group-title="Entretenimiento", MTV (Alt 2)
-http://181.78.7.90:12500/play/a0j4/index.m3u8
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+       #EXTINF:0 group-title="Entretenimiento", MTV (Alt 2)
+       http://181.78.7.90:12500/play/a0j4/index.m3u8
 
 # --- DOCUMENTALES ---
 #EXTINF:0 group-title="Documentales", A&E HD
@@ -282,6 +284,13 @@ http://38.49.128.38:8000/play/a0ls/index.m3u8
 http://148.230.28.85:8002/play/028
 #EXTINF:0 group-title="Musica", TELEHIT(Alt)
 http://45.5.118.152:8000/play/a08r/index.m3u8
+
+#EXTINF:0 group-title="Musica", MTV
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:0 group-title="Musica", MTV (Alt)
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:0 group-title="Musica", MTV (Alt 2)
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
 #EXTINF:0 group-title="Musica", MUSICA HITS
 http://181.78.8.199:8000/play/a09u/index.m3u8
