@@ -84,13 +84,23 @@ http://45.5.119.43:4000/play/a03l/index.m3u8
 #EXTINF:0 group-title="Niños", DISNEY CHANNEL
 http://45.5.119.43:4000/play/a0i8/index.m3u8
 #EXTINF:0 group-title="Niños", DISNEY JR
+http://186.33.25.234:8125/play/a01d/index.m3u8
+#EXTINF:0 group-title="Niños", DISNEY JR (Alt)
 http://45.5.119.43:4000/play/a0g1/index.m3u8
+
 #EXTINF:0 group-title="Niños", DREAMWORKS TV
 http://38.49.128.38:8000/play/a0no/index.m3u8
-#EXTINF:0 group-title="Niños", NICK HD
-http://181.78.7.90:12500/play/a0ji/index.m3u8
 #EXTINF:0 group-title="Niños", NICK JR
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:0 group-title="Niños", NICK JR (Alt)
 http://181.78.7.90:12500/play/a0np/index.m3u8
+#EXTINF:0 group-title="Niños", NICK JR (Alt 2)
+http://190.60.52.28:5001/play/a0ci/index.m3u8
+#EXTINF:0 group-title="Niños", Nickelodeon
+http://190.60.52.28:5001/play/a0du/index.m3u8
+#EXTINF:0 group-title="Niños", Nickelodeon (Alt)
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
 
 
 
