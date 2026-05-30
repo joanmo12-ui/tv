@@ -154,14 +154,14 @@ http://181.78.8.199:8000/play/a0al/index.m3u8
 
 #EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET
 http://181.78.109.48:9998/play/a02h/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET (Alt)
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt)
 http://181.78.109.48:9998/play/a04m/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET (Alt 2)
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt 2)
 http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF:0 group-title="Documentales", ANIMAL PLANET (Alt 3)
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt 3)
 http://181.78.8.199:8000/play/a06w/index.m3u8
 
-#EXTINF:0 group-title="Documentales" tvg-id="DISCOVERY CHANNEL HD.mx", DISCOVERY CHANNEL
+#EXTINF:0 group-title="Documentales" tvg-id="DISCOVERY CHANNEL.mx", DISCOVERY CHANNEL
 http://181.78.109.48:9998/play/a065/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL (Alt)
 http://190.60.52.28:5001/play/a0f9/index.m3u8
@@ -180,7 +180,7 @@ http://38.49.128.38:8000/play/a0ch/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO
 http://181.78.7.90:12500/play/a0e6/index.m3u8
 
-#EXTINF:0 group-title="Documentales", LOVE NATURE
+#EXTINF:0 group-title="Documentales" tvg-id="LOVE NATURE.mx", LOVE NATURE
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:0 group-title="Documentales", LOVE NATURE (Alt)
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
@@ -251,7 +251,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u
 
 
 # --- DEPORTES -----------------------------------
-#EXTINF:0 group-title="Deportes", TUDN
+#EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
 #EXTINF:0 group-title="Deportes", TUDN (Alt 1)
 http://45.171.64.30:8800/play/a07e
