@@ -147,9 +147,9 @@ http://45.171.64.30:8800/play/a04r
 http://190.60.52.28:5001/play/a0e0/index.m3u8
 #EXTINF:0 group-title="Documentales", A&E HD (Alt 2)
 http://181.189.142.237:40000/play/a04c
-#EXTINF:0 group-title="Documentales", AE (Alt 3)
+#EXTINF:0 group-title="Documentales", A&E (Alt 3)
 http://181.78.8.199:8000/play/a0ct/index.m3u8
-#EXTINF:0 group-title="Documentales", AE (Alt 4)
+#EXTINF:0 group-title="Documentales", A&E (Alt 4)
 http://181.78.8.199:8000/play/a0al/index.m3u8
 
 #EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET
