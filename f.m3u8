@@ -253,9 +253,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u
 # --- DEPORTES -----------------------------------
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
-#EXTINF:0 group-title="Deportes", TUDN (Alt 1)
+#EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN (Alt 1)
 http://45.171.64.30:8800/play/a07e
-#EXTINF:0 group-title="Deportes", TUDN (Alt 2)
+#EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN (Alt 2)
 http://45.228.233.222:8000/play/a04y
 #EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (Alt 3)
 http://187.245.231.226:8000/play/a0ut/index.m3u8
@@ -283,9 +283,9 @@ http://181.78.7.90:12500/play/a0p5/index.m3u8
 
 
 # --- MUSICA ---
-#EXTINF:0 group-title="Musica", BANDAMAX
+#EXTINF:0 group-title="Musica" tvg-id="BANDAMAX.mx", BANDAMAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
-#EXTINF:0 group-title="Musica", BANDAMAX (Alt)
+#EXTINF:0 group-title="Musica" tvg-id="BANDAMAX.mx", BANDAMAX (Alt)
 http://148.230.28.85:8002/play/027
 #EXTINF:0 group-title="Musica" logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
