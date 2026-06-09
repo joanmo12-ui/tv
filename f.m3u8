@@ -247,6 +247,7 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
 
 # --- DEPORTES -----------------------------------
+
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN (Alt 1)
@@ -254,9 +255,7 @@ https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN (Alt 2)
 http://45.228.233.222:8000/play/a04y
 #EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (Alt 3)
-http://187.245.231.226:8000/play/a0ut/index.m3u8
 
-#http://45.171.64.30:8800/play/a07e
 
 #EXTINF:0 group-title="Deportes", CLARO SPORTS HD
 http://45.5.119.43:4000/play/a0kz/index.m3u8
