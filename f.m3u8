@@ -181,9 +181,8 @@ http://45.5.119.43:4000/play/a0kn/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL (Alt 4)
 http://181.78.7.90:12500/play/a0ms/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL (Alt 5)
-http://45.5.118.152:8000/play/a0ac/index.m3u8
-#EXTINF:0 group-title="Documentales", DISCOVERY CHANNEL (Alt 6)
 http://181.78.109.48:9998/play/a04l/index.m3u8
+
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE
 http://45.166.93.156:9999/play/a0hi/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY ID
@@ -191,18 +190,15 @@ http://45.166.93.156:9999/play/a0i8/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO
 http://45.166.93.156:9999/play/a0f6/index.m3u8
 
-#EXTINF:0 group-title="Documentales", NAT GEO HD
+#EXTINF:0 group-title="Documentales", NAT GEO
 http://181.78.109.48:9998/play/a062/index.m3u8
 #EXTINF:0 group-title="Documentales", NAT GEO (Alt)
-http://38.199.4.160:93/play/a0bo
-#EXTINF:0 group-title="Documentales", NAT GEO (Alt 2)
 http://190.171.83.2:4000/play/a0pp/index.m3u8
-#EXTINF:0 group-title="Documentales", NAT GEO (Alt 3)
+#EXTINF:0 group-title="Documentales", NAT GEO (Alt 2)
 http://181.78.8.199:8000/play/a093/index.m3u8
-#EXTINF:0 group-title="Documentales", NAT GEO (Alt 4)
+#EXTINF:0 group-title="Documentales", NAT GEO (Alt 3)
 http://45.5.119.43:4000/play/a0kk/index.m3u8
-#EXTINF:0 group-title="Documentales", NAT GEO (Alt 5)
-http://181.78.7.90:12500/play/a0mu/index.m3u8
+
 
 
 #EXTINF:0 group-title="Documentales" tvg-id="LOVE NATURE.mx", LOVE NATURE
@@ -217,43 +213,32 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #EXTINF:0 group-title="Documentales", NATURE TIME(Alt)
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 
-#EXTINF:0 group-title="Documentales"tvg-id="DISCOVERY HOME AND HEALTH.mx", HOME & HEALTH
+#EXTINF:0 group-title="Documentales" tvg-id="DISCOVERY HOME AND HEALTH.mx", HOME & HEALTH
 http://181.78.109.48:9998/play/a05e/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt)
 http://38.199.4.160:93/play/a0be
-#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 2)
+#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 1)
 http://38.97.240.11:8000/play/a040/index.m3u8
-#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 3)
+#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 2)
 http://181.78.8.199:8000/play/a071/index.m3u8
-#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 4)
+#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 3)
 http://45.5.119.43:4000/play/a0hw/index.m3u8
-#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 5)
-http://181.78.7.90:12500/play/a0hw/index.m3u8
-#EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 6)
-http://181.78.7.90:12500/play/a0cw/index.m3u8
-#EXTINF:0 group-title="Documentales", HOME & HEALTH SD
-http://167.250.223.26:8085/play/a04v/index.m3u8
 
 #EXTINF:0 group-title="Documentales", HISTORY
-http://38.199.4.160:93/play/a0ay
+http://45.5.119.43:4000/play/a0gk/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY (Alt)
 http://190.171.83.2:4000/play/a0po/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY (Alt 2)
-http://45.5.119.43:4000/play/a0gk/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY (Alt 3)
-http://181.78.7.90:12500/play/a0mt/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY (SD)
 http://181.78.8.199:8000/play/a0an/index.m3u8
+
+
+
 #EXTINF:0 group-title="Documentales", HISTORY 2
-http://190.171.83.2:4000/play/a0mc/index.m3u8
+http://45.5.119.43:4000/play/a0jp/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY 2 (Alt)
 http://181.78.8.199:8000/play/a0ag/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY 2 (Alt 2)
 http://181.78.8.199:8000/play/a0cq/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY 2 (Alt 3)
-http://45.5.119.43:4000/play/a0jp/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY 2 (Alt 4)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 
 
 #EXTINF:0 group-title="Documentales", PLUTO TV NATURALEZA
