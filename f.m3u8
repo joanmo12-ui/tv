@@ -18,9 +18,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS (Alt 2)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:0  tvg-id="Canal Foro TV", FORO 
-http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
-
 #EXTINF:0 group-title="TV Abierta" logo="https://startvmexico.com/wp-content/uploads/2023/01/C_186.png", FORO TV
 https://channel02dai-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=st=1781119425~exp=1781119725~acl=*~id=5643f257-6b52-4c6d-bd4a-a5922a52d59d~hmac=480112afb7767462bc0ab71df0cf0fa2b3361208414593a33d40090b40e68bdd&originpath=/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/2175f43d-ead5-4e3f-a5f5-ccfb69d9c786:CBF2/master.m3u8
 #EXTINF:0 group-title="TV Abierta" tvg-logo="foro-tv-HD.png", FORO TV(Alt)
@@ -152,11 +149,11 @@ http://38.97.240.11:8000/play/a0k0/index.m3u8
 
 
 # --- DOCUMENTALES --------------------------------
-#EXTINF:0 group-title="Documentales", A&E HD
+#EXTINF:0 group-title="Documentales", A&E
 http://45.171.64.30:8800/play/a04r
-#EXTINF:0 group-title="Documentales", A&E HD (Alt)
+#EXTINF:0 group-title="Documentales", A&E (Alt)
 http://190.60.52.28:5001/play/a0e0/index.m3u8
-#EXTINF:0 group-title="Documentales", A&E HD (Alt 2)
+#EXTINF:0 group-title="Documentales", A&E (Alt 2)
 http://181.189.142.237:40000/play/a04c
 #EXTINF:0 group-title="Documentales", A&E (Alt 3)
 http://181.78.8.199:8000/play/a0ct/index.m3u8
