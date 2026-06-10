@@ -18,7 +18,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS (Alt 2)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="foro-tv-HD.png" tvg-id="Canal Foro TV",FORO http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="foro-tv-HD.png" tvg-id="Canal Foro TV",FORO 
+http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
 
 #EXTINF:0 group-title="TV Abierta" logo="https://startvmexico.com/wp-content/uploads/2023/01/C_186.png", FORO TV
 http://209.87.175.160:5001/play/a0md/index.m3u8?hls
