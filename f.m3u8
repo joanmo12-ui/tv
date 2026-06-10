@@ -20,6 +20,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta" logo="https://startvmexico.com/wp-content/uploads/2023/01/C_186.png", FORO TV
 https://channel02dai-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=st=1781119425~exp=1781119725~acl=*~id=5643f257-6b52-4c6d-bd4a-a5922a52d59d~hmac=480112afb7767462bc0ab71df0cf0fa2b3361208414593a33d40090b40e68bdd&originpath=/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/2175f43d-ead5-4e3f-a5f5-ccfb69d9c786:CBF2/master.m3u8
+https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/06f729d6-a040-4653-83dc-187c39310e7f:DLS/variant/ea6e216659b50f4032de9a13dc877b7f/bandwidth/14180324.m3u8?hdntl=exp=1781209971~acl=*~id=ef7e2bb4-52cc-43c6-bd99-9bf4c44bee6f~data=hdntl~hmac=f0c1e3f53fa652668070b80b2dd03987e926e5fb020a3f34d60c97d26c0700c7&
 #EXTINF:0 group-title="TV Abierta" tvg-logo="foro-tv-HD.png", FORO TV(Alt)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
