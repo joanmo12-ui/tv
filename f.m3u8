@@ -19,7 +19,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta" logo="https://startvmexico.com/wp-content/uploads/2023/01/C_186.png", FORO TV
-https://channel02dai-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8?hdnea=st=1781123843~exp=1781124143~acl=*~id=1a390a9e-3ce3-4fdc-90f0-791b6cdaf41f~hmac=f39d36fe797dbbee23b83bb3147ee1b1c3acb6acbbedbbed6ee59e2837f85f48&originpath=/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/231b1450-e646-45a4-8dcf-884556f22a91:DLS/master.m3u8
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
 
 #EXTINF:0 group-title="TV Abierta" tvg-logo="foro-tv-HD.png", FORO TV(Alt)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
@@ -118,7 +118,7 @@ http://190.60.52.28:5001/play/a0be/index.m3u8
 #EXTINF:0 group-title="Niños", Nickelodeon (Alt)
 http://190.60.52.28:5001/play/a0du/index.m3u8
 #EXTINF:0 group-title="Niños", Nickelodeon (Alt 2)
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8                  
 
 
 # --- ESTILO DE VIDA ---
