@@ -252,8 +252,6 @@ http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt)
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt 1)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS (Alt 2)
 http://190.108.93.180:8000/play/a054/index.m3u8
 
 #EXTINF:0 group-title="Deportes", DAZN
@@ -261,6 +259,8 @@ http://94.176.111.120:8080/live/7621755423047869/687aa5277772/73777.m3u8?token=Q
 
 #EXTINF:0 group-title="Deportes", DSPORTS 2
 http://190.61.41.181:8000/play/a0r4/index.m3u8
+#EXTINF:0 group-title="Deportes", DSPORTS 2 (Alt)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS+
 http://38.199.5.160:8000/play/a09q/index.m3u8 
 
