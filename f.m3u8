@@ -270,17 +270,14 @@ http://38.199.5.160:8000/play/a09q/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS+ (Alt)
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:0 group-title="Deportes", WIN SPORTS
+#EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241", WIN SPORTS
 http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
 #EXTINF:0 group-title="Deportes", WIN SPORTS (Alt)
 http://astra.fibernetisp.com.co/play/a04g/index.m3u8
-#EXTINF:0 group-title="Deportes", WIN SPORTS+
+#EXTINF:0 group-title="Deportes" logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png", WIN SPORTS+
 http://205.235.6.29:8000/play/a10e/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", WIN SPORTS+ (Alt)
 http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
-
-#EXTINF:0 group-title="Deportes", SPORTSTV BRASIL
-http://138.117.81.96:8000/play/a0fq/index.m3u8
 
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
