@@ -26,6 +26,8 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 
 #EXTINF:0 group-title="TV Abierta", IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:0 group-title="TV Abierta", IMAGEN TV (Alt)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:0 group-title="TV Abierta", CANAL 5
 http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
