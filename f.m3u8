@@ -249,14 +249,21 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 # --- DEPORTES -----------------------------------
 #EXTINF:0 group-title="Deportes", DSPORTS
 http://190.108.93.180:8000/play/a054/index.m3u8
-
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt)
+http://190.61.41.181:8000/play/a0r5/index.m3u8
+#EXTINF:0 group-title="Deportes", DSPORTS (Alt 1)
 
-#EXTINF:0 group-title="Deportes", DSPORTS 2(Alt)
-http://190.61.41.181:8000/play/a0r4/index.m3u8
+http://190.108.93.180:8000/play/a054/index.m3u8
 
 #EXTINF:0 group-title="Deportes", DAZN
 http://94.176.111.120:8080/live/7621755423047869/687aa5277772/73777.m3u8?token=Q0FaWEpZFFsXAABWVFAMUwcCAgNRDl1TUwcJBVBXBwRaAFYPCAQHVFQVGEZGFUdTUl9qWwIVAlZRBAdTGENHQ10RbVBdEwxDDAUEUg1YFxoRRlxfAxUCUU4RQA1QQwgSClQCCAATGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsIBwdYFxsWB1oUW0JBSxcIRHpgQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbBABXDAUWGQ==
+
+
+#EXTINF:0 group-title="Deportes", DSPORTS 2
+http://190.61.41.181:8000/play/a0r4/index.m3u8
+#EXTINF:0 group-title="Deportes", DSPORTS+
+http://38.199.5.160:8000/play/a09q/index.m3u8 
+
 
 
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
@@ -266,7 +273,7 @@ https://streaming.alwaysdata.net/tudn.php
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN (Alt 2)
 http://45.228.233.222:8000/play/a04y
 #EXTINF:0 group-title="Deportes" logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN (Alt 3)
-
+http://201.151.118.136:8000/play/a00g/index.m3u8
 
 #EXTINF:0 group-title="Deportes", CLARO SPORTS HD
 http://45.5.119.43:4000/play/a0kz/index.m3u8
