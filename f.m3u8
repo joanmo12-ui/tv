@@ -38,9 +38,10 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 group-title="TV Abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png", AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:0 group-title="TV Abierta", AZTECA 7 (Alt)
-http://38.49.128.38:8000/play/a0la/index.m3u8
+http://209.87.175.160:5001/play/a0fm/index.m3u8
 #EXTINF:0 group-title="TV Abierta", AZTECA 7(Alt 1)
 https://tvaztecab.cdn.mdstrm.com/live-stream-gdai/69b0e201a4807b7097316af8/linear/hls/pa/event/Pqw3ERh_TsKTtop8s6dxgg/stream/2e93f3d5-2a26-4fcf-87ef-ca8ce2729097:CHS/variant/8bf8c7306e496cd1da4c51d80e267cf3/bandwidth/2787400.m3u8?_Expires=1781840012&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmF6dGVjYWIuY2RuLm1kc3RybS5jb20vbGl2ZS1zdHJlYW0tc2VjdXJlLzY5YjBlMjAxYTQ4MDdiNzA5NzMxNmFmOC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxODQwMDEyfX19XX0_&_Signature=FGPARBle3CJD3oOsj577vqn7HSlSTyFPqkSLLWLEX7g4rMipzYkJsalszPy4De5TkryDRHcTxLTWep1OYggFQkKzt6B89~7hMHKLj9cj9XNwoWlsBvYXEqoP0f8nsr7A77v3L2zkItislzJFx0JjnBvA7d8cjY94PAlKfg3B3HFaJAkbjmwZ1a147zavFg1sEsZigGvHOH6F-EhJ5b2EHDDZLUxwK9uFUZbX3Naz5CmtaXBLeG4xksGA3Y2zIs9y3bdM~fCZn7d2e7-oXsbZeuhDUOs6OEJmFlviBgK0ppkUVhZZc~JTrfRjNHgJ8jSV55GzqNAXeeE9IZv51mX~Gw__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=5fea09a071a9945deebf5f7c&uid=neh7Boyon6bkFUzNwdl61U7YwwnvTn72&sid=AJMlFYDT33aCqOzVkaKcMmda6QeZWPiV&pid=4JS8n2IksYVNlFKJVhNQxFlhzPD1GMfu&pid_dvr=7HCPM29noh9k6vaHBpbgrFD6oytQYmO3&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=Y7IzTJWgfk40LLfQMGMxAOzJc2cw88pgs2vCkld0MTYrSnpiAmehnVHDMOZA9f7GQvPsUcTiolh&adInsertionGoogleStreamId=2e93f3d5-2a26-4fcf-87ef-ca8ce2729097%3ACHS&CMCD=cid%3D%2269b0e201a4807b7097316af8%22%2Cmtp%3D2800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224JS8n2IksYVNlFKJVhNQxFlhzPD1GMfu%22%2Csu&es=tvaztecab.cdn.mdstrm.com&proto=https&pz=us
+#http://38.49.128.38:8000/play/a0la/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -294,13 +295,16 @@ http://45.228.233.222:8000/play/a04y
 http://201.151.118.136:8000/play/a00g/index.m3u8
 
 #EXTINF:0 group-title="Deportes", CLARO SPORTS HD
-http://45.5.119.43:4000/play/a0kz/index.m3u8
+http://45.166.93.156:9999/play/a0f9/index.m3u8
+
 #EXTINF:0 group-title="Deportes", Fox Sports
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
 #EXTINF:0 group-title="Deportes", ESPN HD
-http://45.5.119.43:4000/play/a052/index.m3u8
+http://45.166.93.156:9999/play/a09h/index.m3u8
 #EXTINF:0 group-title="Deportes", ESPN HD (Alt)
-http://181.78.7.90:12500/play/a0kt/index.m3u8
+http://45.166.93.156:9999/play/a0hx/index.m3u8
+
 #EXTINF:0 group-title="Deportes", ESPN 2 HD
 http://181.78.7.90:12500/play/a0md/index.m3u8
 #EXTINF:0 group-title="Deportes", ESPN 3 HD
@@ -311,8 +315,6 @@ http://181.78.7.90:12500/play/a0nb/index.m3u8
 http://190.61.101.11:7050/play/a04g/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", SKY DEPORTES (Alt)
 http://45.228.233.222:8000/play/a04w
-
-
 
 
 
@@ -389,28 +391,36 @@ http://38.49.128.38:8000/play/a0nh/index.m3u8
 http://167.250.223.26:8085/play/a064/index.m3u8
 #EXTINF:0 group-title="Peliculas", AMC HD (Alt)
 http://190.171.83.2:4000/play/a0le/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", AXN
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:0 group-title="Peliculas", AXN (Alt)
 http://181.78.8.199:8000/play/a0am/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", CINE LATINO
 http://45.5.119.43:4000/play/a0ik/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", CINEMAX
 http://167.250.223.26:8085/play/a05a/index.m3u8
 #EXTINF:0 group-title="Peliculas", CINEMAX (Alt)
 http://38.49.128.38:8000/play/a093/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", DE PELICULA
 http://45.5.119.43:4000/play/a05n/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", FOX CHANNEL
 http://38.49.128.38:8000/play/a08v/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", FX HD
 http://38.199.4.160:93/play/a0a7
 #EXTINF:0 group-title="Peliculas", FX HD (Alt)
 http://45.5.119.43:4000/play/a0gw/index.m3u8
 #EXTINF:0 group-title="Peliculas", FX HD (Alt 2)
 http://181.78.7.90:12500/play/a0k8/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", GOLDEN PREMIERE HD
 http://181.78.109.48:9998/play/a00u/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", HBO HD
 http://38.97.240.11:8000/play/a0gm/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt)
@@ -419,8 +429,10 @@ http://190.171.83.2:4000/play/a0qc/index.m3u8
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt 3)
 http://181.78.7.90:12500/play/a0j3/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", HBO 2
 http://181.78.7.90:12500/play/a0ga/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD
 http://38.199.4.160:93/play/a0c1
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt)
@@ -429,40 +441,45 @@ http://38.97.240.11:8000/play/a0fr/index.m3u8
 http://45.5.119.43:4000/play/a0l5/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt 3)
 http://181.78.7.90:12500/play/a0m3/index.m3u8
-#EXTINF:0 group-title="Peliculas", HBO PLUS HD
+
+#EXTINF:0 group-title="Peliculas", HBO PLUS
 http://38.199.4.160:93/play/a0c0
-#EXTINF:0 group-title="Peliculas", HBO PLUS HD (Alt)
+#EXTINF:0 group-title="Peliculas", HBO PLUS (Alt)
 http://45.5.119.43:4000/play/a0l4/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO PLUS
 http://181.78.7.90:12500/play/a0g9/index.m3u8
-#EXTINF:0 group-title="Peliculas", HBO XTREME HD
+
+#EXTINF:0 group-title="Peliculas", HBO XTREME
 http://45.5.119.43:4000/play/a0l6/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", PARAMOUNT
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:0 group-title="Peliculas", PARAMOUNT (Alt)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc028/paramountnetworkhdraw/paramountnetworkhdraw.m3u8
+
 #EXTINF:0 group-title="Peliculas", FMH MOVIES
 http://181.78.8.199:8000/play/a06u/index.m3u8
-#EXTINF:0 group-title="Peliculas", SONY HD
+
+#EXTINF:0 group-title="Peliculas", SONY
 http://38.199.4.160:93/play/a0bc
-#EXTINF:0 group-title="Peliculas", SONY HD (Alt)
+#EXTINF:0 group-title="Peliculas", SONY (Alt)
 http://181.78.7.90:12500/play/a0mx/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", SONY CHANNEL
 http://181.78.8.199:8000/play/a0e6/index.m3u8
 #EXTINF:0 group-title="Peliculas", SONY
 http://38.97.240.11:8000/play/a0lh/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", SONY MOVIES
 http://181.78.8.199:8000/play/a0ap/index.m3u8
 #EXTINF:0 group-title="Peliculas", SONY MOVIES (Alt)
 http://181.78.7.90:12500/play/a0i9/index.m3u8
-#EXTINF:0 group-title="Peliculas", SPACE HD
-http://190.171.83.2:4000/play/a0px/index.m3u8
-#EXTINF:0 group-title="Peliculas", SPACE HD (Alt)
-http://181.78.7.90:12500/play/a0n1/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", SPACE
-http://181.78.8.199:8000/play/a096/index.m3u8
+http://181.78.21.174:8015/play/a02m/index.m3u8
 #EXTINF:0 group-title="Peliculas", SPACE (Alt)
-http://38.49.128.38:8000/play/a0cg/index.m3u8
+http://190.60.52.28:5001/play/a0ap/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", STAR CHANNEL HD
 http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:0 group-title="Peliculas", STAR CHANNEL HD (Alt)
