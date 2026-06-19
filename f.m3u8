@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml"
 
-# --- TV ABIERTA ---
+#TV ABIERTA ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno
 http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
 #EXTINF:0 group-title="TV Abierta", Azteca Uno (Alt)
@@ -84,15 +85,18 @@ http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:0 group-title="Comedia", COMEDY CENTRAL
 http://38.49.128.38:8000/play/a0b3/index.m3u8
 
-       #EXTINF:0 group-title="Entretenimiento", UNICABLE
+#EXTINF:0 group-title="Entretenimiento", UNICABLE
+http://190.61.101.11:7050/play/a04j/index.m3u8?hls
+#EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt)
+http://190.61.101.11:7050/play/a0a6/index.m3u8?hls
+#EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt 1)
+       #http://167.250.223.26:8085/play/a02w/index.m3u8
        http://38.49.128.38:8000/play/a0ov/index.m3u8
-       #EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt)
-       http://167.250.223.26:8085/play/a02w/index.m3u8
 
 
 
+# NIÑOS ____________________________________________________________________________________________________________________________
 
-# --- NIÑOS ---
 #EXTINF:0 group-title="Niños", BABY TV
 http://181.209.96.155:10000/play/a12c/index.m3u8
 #EXTINF:0 group-title="Niños", BABY TV(Alt)
@@ -131,7 +135,8 @@ http://190.60.52.28:5001/play/a0du/index.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8                  
 
 
-# --- ESTILO DE VIDA ---
+# ESTILO DE VIDA ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Estilo de vida", LIFETIME
 http://181.78.8.199:8000/play/a0ai/index.m3u8
 #EXTINF:0 group-title="Estilo de vida", LIFETIME (Alt)
@@ -159,7 +164,8 @@ http://38.97.240.11:8000/play/a0k0/index.m3u8
 
 
 
-# --- DOCUMENTALES --------------------------------
+# DOCUMENTALES ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Documentales", A&E
 http://45.171.64.30:8800/play/a04r
 #EXTINF:0 group-title="Documentales", A&E (Alt)
@@ -261,7 +267,8 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
 
 
-# --- DEPORTES -----------------------------------
+# DEPORTES _________________________________________________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804", DSPORTS
 http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt)
@@ -330,7 +337,8 @@ http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
 http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 
 
-# --- MUSICA ---
+# MUSICA ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Musica" tvg-id="BANDAMAX.mx", BANDAMAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
 #EXTINF:0 group-title="Musica" tvg-id="BANDAMAX.mx", BANDAMAX (Alt)
@@ -388,7 +396,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 http://181.78.7.90:12500/play/a0pi/index.m3u8
 
 
-# --- NOVELAS Y SERIES ---
+# NOVELAS Y SERIES ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Novelas", TLNOVELAS
 http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
 #EXTINF:0 group-title="Novelas", TLNOVELAS (Alt)
@@ -418,7 +427,8 @@ http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
 http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 
 
-# --- PELICULAS ---
+# PELICULAS ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Peliculas", AMC
 http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
 #EXTINF:0 group-title="Peliculas", AMC (Alt)
