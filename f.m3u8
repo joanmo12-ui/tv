@@ -401,10 +401,13 @@ http://181.78.7.90:12500/play/a0pi/index.m3u8
 
 #EXTINF:0 group-title="Novelas", TLNOVELAS
 http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
+
 #EXTINF:0 group-title="Novelas", TLNOVELAS (Alt)
 http://205.235.6.29:8000/play/a0wi/index.m3u8?hls
 
+#EXTINF:0 group-title="Novelas", NOVELAS
 http://24.152.53.3:8090/play/a018/index.m3u8?hls
+#EXTINF:0 group-title="Novelas", NOVELAS (Alt)
 http://205.235.6.29:8000/play/a0xm/index.m3u8?hls
 
 #EXTINF:0 group-title="Novelas", TNT NOVELAS
