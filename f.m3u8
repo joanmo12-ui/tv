@@ -465,79 +465,89 @@ http://45.5.119.43:4000/play/a0l5/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt 3)
 http://38.97.240.11:8000/play/a0fr/index.m3u8
 
+#EXTINF:0 group-title="Peliculas", HBO POP
+http://astra.fibernetisp.com.co/play/a0dj/index.m3u8
+#EXTINF:0 group-title="Peliculas", HBO POP (Alt)
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
 
 #EXTINF:0 group-title="Peliculas", HBO PLUS
-http://38.199.4.160:93/play/a0c0
+http://190.61.101.11:7050/play/a050/index.m3u8?hls
 #EXTINF:0 group-title="Peliculas", HBO PLUS (Alt)
+http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", HBO PLUS (Alt 1)
 http://45.5.119.43:4000/play/a0l4/index.m3u8
-#EXTINF:0 group-title="Peliculas", HBO PLUS
-http://181.78.7.90:12500/play/a0g9/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO XTREME
+http://181.224.255.210:8001/play/a0oo/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", HBO XTREME (Alt)
+http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", HBO XTREME (Alt 1)
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", PARAMOUNT
-https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
 #EXTINF:0 group-title="Peliculas", PARAMOUNT (Alt)
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc028/paramountnetworkhdraw/paramountnetworkhdraw.m3u8
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
-#EXTINF:0 group-title="Peliculas", FMH MOVIES
-http://181.78.8.199:8000/play/a06u/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", SONY
-http://38.199.4.160:93/play/a0bc
+http://astra.fibernetisp.com.co/play/a05m/index.m3u8
 #EXTINF:0 group-title="Peliculas", SONY (Alt)
-http://181.78.7.90:12500/play/a0mx/index.m3u8
-
-#EXTINF:0 group-title="Peliculas", SONY CHANNEL
+http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", SONY (Alt 1)
 http://181.78.8.199:8000/play/a0e6/index.m3u8
-#EXTINF:0 group-title="Peliculas", SONY
+#EXTINF:0 group-title="Peliculas", SONY (Alt 2)
 http://38.97.240.11:8000/play/a0lh/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", SONY MOVIES
-http://181.78.8.199:8000/play/a0ap/index.m3u8
+http://190.61.101.11:7050/play/a083/index.m3u8?hls
 #EXTINF:0 group-title="Peliculas", SONY MOVIES (Alt)
-http://181.78.7.90:12500/play/a0i9/index.m3u8
+http://181.78.8.199:8000/play/a0ap/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", SPACE
-http://181.78.21.174:8015/play/a02m/index.m3u8
+http://190.217.66.92:8000/play/a0fe/index.m3u8u?hls
 #EXTINF:0 group-title="Peliculas", SPACE (Alt)
+http://astra.fibernetisp.com.co/play/a05o/index.m3u8
+#EXTINF:0 group-title="Peliculas", SPACE (Alt 1)
 http://190.60.52.28:5001/play/a0ap/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", STAR CHANNEL HD
-http://190.171.83.2:4000/play/a0q2/index.m3u8
+http://astra.fibernetisp.com.co/play/a061/index.m3u8
 #EXTINF:0 group-title="Peliculas", STAR CHANNEL HD (Alt)
-http://181.78.7.90:12500/play/a0or/index.m3u8
+http://205.235.6.29:8000/play/a0x7/index.m3u8?hls
 #EXTINF:0 group-title="Peliculas", STAR CHANNEL HD (Alt 2)
-http://181.78.7.90:12500/play/a0ou/index.m3u8
-#EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL HD
-http://38.199.4.160:93/play/a0ca
-#EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL HD (Alt)
-http://181.78.7.90:12500/play/a0f4/index.m3u8
-#EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL HD (Alt 2)
-http://181.78.7.90:12500/play/a0pw/index.m3u8
+http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+
 #EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL
+http://24.152.53.3:8090/play/a01b/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL (Alt)
+http://astra.fibernetisp.com.co/play/a0tn/index.m3u8
+#EXTINF:0 group-title="Peliculas", STUDIO UNIVERSAL (Alt 2)
 http://38.49.128.38:8000/play/a0bh/index.m3u8
+
 #EXTINF:0 group-title="Peliculas", TNT HD
-http://181.78.7.90:12500/play/a0mv/index.m3u8
+http://astra.fibernetisp.com.co/play/a062/index.m3u8
 #EXTINF:0 group-title="Peliculas", TNT HD (Alt)
-http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:0 group-title="Peliculas", UNIVERSAL CHANNEL HD
-http://190.171.83.2:4000/play/a0qa/index.m3u8
-#EXTINF:0 group-title="Peliculas", UNIVERSAL CHANNEL HD (Alt)
-http://181.78.7.90:12500/play/a0n6/index.m3u8
-#EXTINF:0 group-title="Peliculas", WARNER HD
-http://38.199.4.160:93/play/a0bb
-#EXTINF:0 group-title="Peliculas", WARNER CHANNEL HD
-http://190.171.83.2:4000/play/a0pu/index.m3u8
-#EXTINF:0 group-title="Peliculas", WARNER CHANNEL HD (Alt)
-http://181.78.7.90:12500/play/a0my/index.m3u8
+http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", TNT HD (Alt 1)
+http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
 
+#EXTINF:0 group-title="Peliculas", UNIVERSAL CHANNEL
+http://astra.fibernetisp.com.co/play/a060/index.m3u8
+#EXTINF:0 group-title="Peliculas", UNIVERSAL CHANNEL (Alt)
+http://190.61.101.11:7050/play/a068/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", UNIVERSAL CHANNEL (Alt 1)
+http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
 
+#EXTINF:0 group-title="Peliculas", UNIVERSAL PREMIER
+http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 
+#EXTINF:0 group-title="Peliculas", WARNER
+http://190.61.101.11:7050/play/a078/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", WARNER (Alt)
+http://astra.fibernetisp.com.co/play/a05t/index.m3u8
+#EXTINF:0 group-title="Peliculas", WARNER (Alt 1)
+http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
 
-
-
-
-
-
+#EXTINF:0 group-title="Peliculas", FMH MOVIES
+http://181.78.8.199:8000/play/a06u/index.m3u8
