@@ -205,8 +205,6 @@ http://181.78.8.199:8000/play/a093/index.m3u8
 #EXTINF:0 group-title="Documentales", NAT GEO (Alt 3)
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 
-
-
 #EXTINF:0 group-title="Documentales" tvg-id="LOVE NATURE.mx", LOVE NATURE
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:0 group-title="Documentales", LOVE NATURE (Alt)
@@ -237,15 +235,12 @@ http://190.171.83.2:4000/play/a0po/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY (Alt 2)
 http://181.78.8.199:8000/play/a0an/index.m3u8
 
-
-
 #EXTINF:0 group-title="Documentales", HISTORY 2
 http://45.5.119.43:4000/play/a0jp/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY 2 (Alt)
 http://181.78.8.199:8000/play/a0ag/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY 2 (Alt 2)
 http://181.78.8.199:8000/play/a0cq/index.m3u8
-
 
 #EXTINF:0 group-title="Documentales", PLUTO TV NATURALEZA
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
@@ -310,12 +305,10 @@ http://181.78.7.90:12500/play/a0md/index.m3u8
 #EXTINF:0 group-title="Deportes", ESPN 3 HD
 http://181.78.7.90:12500/play/a0nb/index.m3u8
 
-
 #EXTINF:0 group-title="Deportes", SKY DEPORTES
 http://190.61.101.11:7050/play/a04g/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", SKY DEPORTES (Alt)
 http://45.228.233.222:8000/play/a04w
-
 
 
 
@@ -336,10 +329,13 @@ http://38.49.128.38:8000/play/a0lr/index.m3u8
 http://209.87.175.160:5001/play/a0ls/index.m3u8?hls
 #EXTINF:0 group-title="Musica", LAMEJOR TV (Alt)
 http://38.49.128.38:8000/play/a0ls/index.m3u8
+
 #EXTINF:0 group-title="Musica", TELEHIT
-http://148.230.28.85:8002/play/028
+http://181.78.21.174:8015/play/a003/index.m3u8
 #EXTINF:0 group-title="Musica", TELEHIT(Alt)
 http://45.5.118.152:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="Musica", TELEHIT LAT(Alt 1)
+http://181.78.21.174:8015/play/a005/index.m3u8
 
 #EXTINF:0 group-title="Musica", MTV
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
