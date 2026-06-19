@@ -34,10 +34,13 @@ http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
 #EXTINF:0 group-title="TV Abierta", CANAL 5 (Alt)
 http://45.5.119.43:4000/play/a05o/index.m3u8
 
-#EXTINF:0 group-title="TV Abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png", Azteca 7
+
+#EXTINF:0 group-title="TV Abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png", AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:0 group-title="TV Abierta", AZTECA 7
+#EXTINF:0 group-title="TV Abierta", AZTECA 7 (Alt)
 http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:0 group-title="TV Abierta", AZTECA 7(Alt 1)
+https://tvaztecab.cdn.mdstrm.com/live-stream-gdai/69b0e201a4807b7097316af8/linear/hls/pa/event/Pqw3ERh_TsKTtop8s6dxgg/stream/2e93f3d5-2a26-4fcf-87ef-ca8ce2729097:CHS/variant/8bf8c7306e496cd1da4c51d80e267cf3/bandwidth/2787400.m3u8?_Expires=1781840012&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmF6dGVjYWIuY2RuLm1kc3RybS5jb20vbGl2ZS1zdHJlYW0tc2VjdXJlLzY5YjBlMjAxYTQ4MDdiNzA5NzMxNmFmOC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxODQwMDEyfX19XX0_&_Signature=FGPARBle3CJD3oOsj577vqn7HSlSTyFPqkSLLWLEX7g4rMipzYkJsalszPy4De5TkryDRHcTxLTWep1OYggFQkKzt6B89~7hMHKLj9cj9XNwoWlsBvYXEqoP0f8nsr7A77v3L2zkItislzJFx0JjnBvA7d8cjY94PAlKfg3B3HFaJAkbjmwZ1a147zavFg1sEsZigGvHOH6F-EhJ5b2EHDDZLUxwK9uFUZbX3Naz5CmtaXBLeG4xksGA3Y2zIs9y3bdM~fCZn7d2e7-oXsbZeuhDUOs6OEJmFlviBgK0ppkUVhZZc~JTrfRjNHgJ8jSV55GzqNAXeeE9IZv51mX~Gw__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=5fea09a071a9945deebf5f7c&uid=neh7Boyon6bkFUzNwdl61U7YwwnvTn72&sid=AJMlFYDT33aCqOzVkaKcMmda6QeZWPiV&pid=4JS8n2IksYVNlFKJVhNQxFlhzPD1GMfu&pid_dvr=7HCPM29noh9k6vaHBpbgrFD6oytQYmO3&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=Y7IzTJWgfk40LLfQMGMxAOzJc2cw88pgs2vCkld0MTYrSnpiAmehnVHDMOZA9f7GQvPsUcTiolh&adInsertionGoogleStreamId=2e93f3d5-2a26-4fcf-87ef-ca8ce2729097%3ACHS&CMCD=cid%3D%2269b0e201a4807b7097316af8%22%2Cmtp%3D2800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224JS8n2IksYVNlFKJVhNQxFlhzPD1GMfu%22%2Csu&es=tvaztecab.cdn.mdstrm.com&proto=https&pz=us
 
 #EXTINF:0 group-title="TV Abierta", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
