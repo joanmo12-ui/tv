@@ -314,6 +314,10 @@ http://190.61.101.11:7050/play/a04g/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", SKY DEPORTES (Alt)
 http://45.228.233.222:8000/play/a04w
 
+#EXTINF:0 group-title="Deportes", TNT SPORTS
+http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
+#EXTINF:0 group-title="Deportes", TNT SPORTS (Alt)
+http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 
 
 # --- MUSICA ---
@@ -376,11 +380,23 @@ http://181.78.7.90:12500/play/a0pi/index.m3u8
 
 # --- NOVELAS Y SERIES ---
 #EXTINF:0 group-title="Novelas", TLNOVELAS
-http://181.78.7.90:12500/play/a0p3/index.m3u8
-#EXTINF:0 group-title="Novelas", TNT NOVELAS HD
-http://181.78.7.90:12500/play/a0na/index.m3u8
-#EXTINF:0 group-title="Series", TNT SERIES HD
-http://181.78.7.90:12500/play/a0n8/index.m3u8
+http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
+#EXTINF:0 group-title="Novelas", TLNOVELAS (Alt)
+http://205.235.6.29:8000/play/a0wi/index.m3u8?hls
+
+http://24.152.53.3:8090/play/a018/index.m3u8?hls
+http://205.235.6.29:8000/play/a0xm/index.m3u8?hls
+
+#EXTINF:0 group-title="Novelas", TNT NOVELAS
+http://astra.fibernetisp.com.co/play/a0k8/index.m3u8
+#EXTINF:0 group-title="Novelas", TNT NOVELAS (Alt)
+http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
+
+#EXTINF:0 group-title="Series", TNT SERIES
+http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
+#EXTINF:0 group-title="Series", TNT SERIES (Alt)
+http://astra.fibernetisp.com.co/play/a0ii/index.m3u8
+
 #EXTINF:0 group-title="Series", AMC SERIES
 http://181.78.7.90:12500/play/a0fu/index.m3u8
 #EXTINF:0 group-title="Series", EDGE
@@ -434,13 +450,13 @@ http://181.78.7.90:12500/play/a0j3/index.m3u8
 http://181.78.7.90:12500/play/a0ga/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD
-http://38.199.4.160:93/play/a0c1
+http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt)
-http://38.97.240.11:8000/play/a0fr/index.m3u8
+http://astra.fibernetisp.com.co/play/a0dl/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt 2)
 http://45.5.119.43:4000/play/a0l5/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt 3)
-http://181.78.7.90:12500/play/a0m3/index.m3u8
+http://38.97.240.11:8000/play/a0fr/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO PLUS
 http://38.199.4.160:93/play/a0c0
