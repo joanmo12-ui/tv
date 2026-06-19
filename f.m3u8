@@ -195,10 +195,21 @@ http://181.78.109.48:9998/play/a04l/index.m3u8
 
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE
 http://45.166.93.156:9999/play/a0hi/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE (Alt)
+http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+#EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE (Alt 1)
+http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
+
+
 #EXTINF:0 group-title="Documentales", DISCOVERY ID
 http://45.166.93.156:9999/play/a0i8/index.m3u8
+
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO
 http://45.166.93.156:9999/play/a0f6/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY TURBO (Alt)
+http://8.243.126.131:8000/play/a0go/index.m3u8?hls
+#EXTINF:0 group-title="Documentales", DISCOVERY TURBO (Alt 1)
+http://45.170.130.224:8000/play/a03q/index.m3u8
 
 #EXTINF:0 group-title="Documentales", NAT GEO
 http://181.78.109.48:9998/play/a062/index.m3u8
@@ -214,7 +225,6 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:0 group-title="Documentales", LOVE NATURE (Alt)
 http://181.224.200.5:2277/play/a036/index.m3u8
 #http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
-
 
 #EXTINF:0 group-title="Documentales", NATURE TIME
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
