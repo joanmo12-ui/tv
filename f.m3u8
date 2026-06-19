@@ -30,9 +30,11 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:0 group-title="TV Abierta", CANAL 5
-http://45.5.119.43:4000/play/a05o/index.m3u8
+http://190.61.101.11:7050/play/a098/index.m3u8?hls
 #EXTINF:0 group-title="TV Abierta", CANAL 5 (Alt)
 http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
+#EXTINF:0 group-title="TV Abierta", CANAL 5 (Alt 1)
+http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 group-title="TV Abierta", CANAL 5 (Alt 1)
 http://209.87.175.160:5001/play/a0fl/index.m3u8
 
