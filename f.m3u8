@@ -398,15 +398,21 @@ http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
 http://astra.fibernetisp.com.co/play/a0ii/index.m3u8
 
 #EXTINF:0 group-title="Series", AMC SERIES
-http://181.78.7.90:12500/play/a0fu/index.m3u8
+http://190.61.101.11:7050/play/a08r/index.m3u8?hls
+#EXTINF:0 group-title="Series", AMC SERIES (Alt)
+http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
+
 #EXTINF:0 group-title="Series", EDGE
-http://38.49.128.38:8000/play/a0nh/index.m3u8
+http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
+#EXTINF:0 group-title="Series", EDGE (Alt)
+http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
+
 
 # --- PELICULAS ---
-#EXTINF:0 group-title="Peliculas", AMC HD
-http://167.250.223.26:8085/play/a064/index.m3u8
-#EXTINF:0 group-title="Peliculas", AMC HD (Alt)
-http://190.171.83.2:4000/play/a0le/index.m3u8
+#EXTINF:0 group-title="Peliculas", AMC
+http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", AMC (Alt)
+http://190.217.66.92:8000/play/a0pr/index.m3u8u?hls
 
 #EXTINF:0 group-title="Peliculas", AXN
 http://181.78.8.199:8000/play/a0cu/index.m3u8
