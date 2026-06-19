@@ -423,37 +423,38 @@ http://181.78.8.199:8000/play/a0am/index.m3u8
 http://45.5.119.43:4000/play/a0ik/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", CINEMAX
-http://167.250.223.26:8085/play/a05a/index.m3u8
+http://astra.fibernetisp.com.co/play/a05l/index.m3u8
 #EXTINF:0 group-title="Peliculas", CINEMAX (Alt)
 http://38.49.128.38:8000/play/a093/index.m3u8
-
-#EXTINF:0 group-title="Peliculas", DE PELICULA
-http://45.5.119.43:4000/play/a05n/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", FOX CHANNEL
 http://38.49.128.38:8000/play/a08v/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", FX HD
-http://38.199.4.160:93/play/a0a7
+http://astra.fibernetisp.com.co/play/a05p/index.m3u8
 #EXTINF:0 group-title="Peliculas", FX HD (Alt)
 http://45.5.119.43:4000/play/a0gw/index.m3u8
-#EXTINF:0 group-title="Peliculas", FX HD (Alt 2)
-http://181.78.7.90:12500/play/a0k8/index.m3u8
 
+#EXTINF:0 group-title="Peliculas", GOLDEN
+http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", GOLDEN (Alt)
+http://astra.fibernetisp.com.co/play/a0m4/index.m3u8
 #EXTINF:0 group-title="Peliculas", GOLDEN PREMIERE HD
 http://181.78.109.48:9998/play/a00u/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO HD
-http://38.97.240.11:8000/play/a0gm/index.m3u8
+http://181.224.255.210:8001/play/a0f161/index.m3u8?hls
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt)
-http://190.171.83.2:4000/play/a0qc/index.m3u8
+http://astra.fibernetisp.com.co/play/a0ax/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt 2)
-http://45.5.119.43:4000/play/a0l2/index.m3u8
+http://38.97.240.11:8000/play/a0gm/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt 3)
-http://181.78.7.90:12500/play/a0j3/index.m3u8
+http://45.5.119.43:4000/play/a0l2/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO 2
-http://181.78.7.90:12500/play/a0ga/index.m3u8
+http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
+#EXTINF:0 group-title="Peliculas", HBO 2 (Alt)
+http://45.170.130.224:8000/play/a01i/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD
 http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
@@ -463,6 +464,7 @@ http://astra.fibernetisp.com.co/play/a0dl/index.m3u8
 http://45.5.119.43:4000/play/a0l5/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO FAMILY HD (Alt 3)
 http://38.97.240.11:8000/play/a0fr/index.m3u8
+
 
 #EXTINF:0 group-title="Peliculas", HBO PLUS
 http://38.199.4.160:93/play/a0c0
