@@ -473,9 +473,9 @@ http://181.78.109.48:9998/play/a00u/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO HD
 http://168.228.44.241:9998/play/a016/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt)
-http://astra.fibernetisp.com.co/play/a0ax/index.m3u8
+http://170.247.204.9:8000/play/a0ad/index.m3u8u?hls
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt 2)
-http://38.97.240.11:8000/play/a0gm/index.m3u8
+http://170.247.204.9:8000/play/a04a/index.m3u8u?hls
 #EXTINF:0 group-title="Peliculas", HBO HD (Alt 3)
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 
