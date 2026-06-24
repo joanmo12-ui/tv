@@ -302,6 +302,9 @@ http://205.235.6.29:8000/play/a10e/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", WIN SPORTS+ (Alt)
 http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
 
+#EXTINF:0 group-title="Deportes", GOL CARACOL
+https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/158.m3u8?key=MTU4OjE3ODIyNjQwNDE.19d9d63bb02d6ca08f6f3146acf87740
+
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN (Alt 1)
@@ -494,11 +497,11 @@ http://astra.fibernetisp.com.co/play/a0dj/index.m3u8
 #EXTINF:0 group-title="Peliculas", HBO POP (Alt)
 http://181.224.255.210:8001/play/a0on/index.m3u8?hls
 
-#EXTINF:0 group-title="Peliculas", HBO PLUS
+#EXTINF:0 group-title="Peliculas", HBO+
 http://190.61.101.11:7050/play/a050/index.m3u8?hls
-#EXTINF:0 group-title="Peliculas", HBO PLUS (Alt)
+#EXTINF:0 group-title="Peliculas", HBO+ (Alt)
 http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
-#EXTINF:0 group-title="Peliculas", HBO PLUS (Alt 1)
+#EXTINF:0 group-title="Peliculas", HBO+ (Alt 1)
 http://45.5.119.43:4000/play/a0l4/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", HBO XTREME
