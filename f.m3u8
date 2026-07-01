@@ -270,8 +270,7 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 # DEPORTES _________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804", DSPORTS
-https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/94.m3u8?key=OTQ6MTc4MjI2NDE2Mg.ae11aaaf7907740b8d4bfa17df2fbbc6
-#http://190.108.93.180:8000/play/a054/index.m3u8
+http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt)
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt 1)
@@ -280,6 +279,7 @@ http://190.108.93.180:8000/play/a054/index.m3u8
 http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTINF:0 group-title="Deportes", DSPORTS (Alt 3)
 http://148.222.230.197:8000/play/a0mm/index.m3u8
+#https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 
 #EXTINF:0 group-title="Deportes", DAZN
 http://94.176.111.120:8080/live/7621755423047869/687aa5277772/73777.m3u8?token=Q0FaWEpZFFsXAABWVFAMUwcCAgNRDl1TUwcJBVBXBwRaAFYPCAQHVFQVGEZGFUdTUl9qWwIVAlZRBAdTGENHQ10RbVBdEwxDDAUEUg1YFxoRRlxfAxUCUU4RQA1QQwgSClQCCAATGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsIBwdYFxsWB1oUW0JBSxcIRHpgQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbBABXDAUWGQ==
