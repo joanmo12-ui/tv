@@ -23,8 +23,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 group-title="TV Abierta" logo="https://startvmexico.com/wp-content/uploads/2023/01/C_186.png", FORO TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
 
-#EXTINF:0 group-title="TV Abierta" tvg-logo="foro-tv-HD.png", FORO TV(Alt)
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:0 group-title="TV Abierta", IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -38,20 +36,18 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 group-title="TV Abierta", CANAL 5 (Alt 2)
 http://209.87.175.160:5001/play/a0fl/index.m3u8
 
-#EXTINF:0 group-title="TV Abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png", AZTECA 7
-http://24.152.53.3:8090/play/a013/index.m3u8?hls
-#https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:0 group-title="TV Abierta", AZTECA 7 (Alt)
+#EXTINF:0 group-title="TV Abierta", AZTECA 7
 http://209.87.175.160:5001/play/a0fm/index.m3u8
-#EXTINF:0 group-title="TV Abierta", AZTECA 7(Alt 1)
+#EXTINF:0 group-title="TV Abierta", AZTECA 7 (Alt)
 http://190.61.101.11:7050/play/a09b/index.m3u8?hls
-#http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:0 group-title="TV Abierta", AZTECA 7(Alt 2)
+http://38.49.128.38:8000/play/a0la/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
       
-       #EXTINF:0 group-title="TV Abierta", EL NUEVE
-       http://38.49.128.38:8000/play/a0ow/index.m3u8
+#EXTINF:0 group-title="TV Abierta", EL NUEVE
+http://38.49.128.38:8000/play/a0ow/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta", AZCORAZON
 http://45.5.119.43:4000/play/a0g6/index.m3u8
