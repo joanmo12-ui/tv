@@ -3,9 +3,12 @@
 #TV ABIERTA ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno (Alt)
 http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
-#EXTINF:0 group-title="TV Abierta", Azteca Uno (Alt)
+#EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno (Alt 2)
 https://190.60.52.28:5001/play/a0co/index.m3u8
+
 #EXTINF:0 group-title="TV Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png", Azteca Uno -1 Hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
@@ -282,7 +285,8 @@ http://148.222.230.197:8000/play/a0mm/index.m3u8
 #https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 
 #EXTINF:0 group-title="Deportes", DAZN
-https://live.plplayer.com/auth/9q_9ofgmQVWSS6qi6iG9o-sDofmD7eO0aHfLV4sJLGsAj_VvlQbjrbVxcvfXej5QpKPF_LSntUutYh5NBZG8uycAYu5SLX1vP3Kmt7aU7XC1O0fOq7j_PhHxz0JiCwmNWaQjCX0LWb-ipiQdWc_klU621B3lLmEqLz7EVG_lV34xilq83GV4B04gVTWom0f0ARtDLiLV_JwY-J4sEnAl0PIzj6gQlJz87c1qLCP_fZG810QxGsnUiR3TwH6StwYWswz_5ddmP-pYbtahy9PCFn03E0KZZmpLcf629E_o42mykV9wFCRcJuKnG8uv0Nd6ai0tm4KL0wPkQyRDJ4nhOcRgaKsetX5PilxV9nHO3WkOeLLb_v4G5iYvph7dmqimSq446nOgUtdRDKIG7ZoFWb_7t1znV0G5u8iBSucUzsRWODukWOtUoFDD4mDcHcDvWSryTTDGr0iou1SNqmyYcg2odexrl7xoyXWL5lHD6g_Fma-au2XhY7GhQBGMcs5Vyspmr8dkV6VdMUsLDob1z81aLH2MYPKQN2eYsNjHATCk_m_bOFFXxmIhy3TOeGQRLRMZgTpFShnboHEn_X2gM3PaA90E0X_mleQEJLMjZKw
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
 #EXTINF:0 group-title="Deportes", DAZN (Alt)
 http://94.176.111.120:8080/live/7621755423047869/687aa5277772/73777.m3u8?token=Q0FaWEpZFFsXAABWVFAMUwcCAgNRDl1TUwcJBVBXBwRaAFYPCAQHVFQVGEZGFUdTUl9qWwIVAlZRBAdTGENHQ10RbVBdEwxDDAUEUg1YFxoRRlxfAxUCUU4RQA1QQwgSClQCCAATGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsIBwdYFxsWB1oUW0JBSxcIRHpgQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbBABXDAUWGQ==
 
@@ -305,9 +309,6 @@ http://astra.fibernetisp.com.co/play/a04g/index.m3u8
 http://205.235.6.29:8000/play/a10e/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", WIN SPORTS+ (Alt)
 http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
-
-#EXTINF:0 group-title="Deportes", GOL CARACOL
-https://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/158.m3u8?key=MTU4OjE3ODIyNjQwNDE.19d9d63bb02d6ca08f6f3146acf87740
 
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
