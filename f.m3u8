@@ -50,8 +50,6 @@ http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 #EXTINF:0 group-title="TV Abierta", AZTECA 7(Alt 3)
 http://187.245.231.226:8000/play/a0uw/index.m3u8
 
-
-
 #EXTINF:0 group-title="TV Abierta", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
       
@@ -95,7 +93,7 @@ http://190.61.101.11:7050/play/a04j/index.m3u8?hls
 http://190.61.101.11:7050/play/a0a6/index.m3u8?hls
 #EXTINF:0 group-title="Entretenimiento", UNICABLE (Alt 1)
        #http://167.250.223.26:8085/play/a02w/index.m3u8
-       http://38.49.128.38:8000/play/a0ov/index.m3u8
+http://38.49.128.38:8000/play/a0ov/index.m3u8
 
 
 
@@ -107,7 +105,7 @@ http://45.171.64.30:8800/play/a008
 http://181.209.96.155:10000/play/a12c/index.m3u8
  
 #EXTINF:0 group-title="Niños", BOOMERANG
- http://45.5.119.43:4000/play/a0g0/index.m3u8
+http://45.5.119.43:4000/play/a0g0/index.m3u8
 
 #EXTINF:0 group-title="Niños", CARTOON NETWORK
 http://45.190.184.79:5800/play/a014/index.m3u8
@@ -131,7 +129,7 @@ http://45.5.119.43:4000/play/a0g1/index.m3u8
 http://38.49.128.38:8000/play/a0no/index.m3u8
 
 #EXTINF:0 group-title="Niños", NICK JR
-http://190.60.52.28:5001/play/a0ci/index.m3u8
+http://179.60.51.134:8888/NICK-JR/index.m3u8
 #EXTINF:0 group-title="Niños", NICK JR (Alt)
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:0 group-title="Niños", NICK JR (Alt 2)
