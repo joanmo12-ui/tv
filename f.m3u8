@@ -105,8 +105,9 @@ http://190.61.101.11:7050/play/a0a6/index.m3u8?hls
 http://45.171.64.30:8800/play/a008
 #EXTINF:0 group-title="Niños", BABY TV(Alt)
 http://181.209.96.155:10000/play/a12c/index.m3u8
-       #EXTINF:0 group-title="Niños", BOOMERANG
-       http://45.5.119.43:4000/play/a0g0/index.m3u8
+ 
+#EXTINF:0 group-title="Niños", BOOMERANG
+ http://45.5.119.43:4000/play/a0g0/index.m3u8
 
 #EXTINF:0 group-title="Niños", CARTOON NETWORK
 http://45.190.184.79:5800/play/a014/index.m3u8
@@ -137,9 +138,9 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 #EXTINF:0 group-title="Niños", Nickelodeon
-http://190.60.52.28:5001/play/a0be/index.m3u8
+http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:0 group-title="Niños", Nickelodeon (Alt)
-http://190.60.52.28:5001/play/a0du/index.m3u8
+http://181.224.200.5:2277/play/a0bm/index.m3u8
 #EXTINF:0 group-title="Niños", Nickelodeon (Alt 2)
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8                  
 
