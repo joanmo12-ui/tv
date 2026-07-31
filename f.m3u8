@@ -186,13 +186,13 @@ http://181.78.8.199:8000/play/a0ct/index.m3u8
 http://181.78.8.199:8000/play/a0al/index.m3u8
 
 #EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET
-http://181.78.109.48:9998/play/a02h/index.m3u8
-#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt)
-http://181.78.109.48:9998/play/a04m/index.m3u8
-#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt 2)
 http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt 3)
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt)
 http://181.78.8.199:8000/play/a06w/index.m3u8
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt 2)
+http://186.33.57.220:8000/play/a12f/index.m3u8
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL PLANET.mx", ANIMAL PLANET (Alt 3)
+
 
 #EXTINF:0 group-title="Documentales" tvg-id="DISCOVERY CHANNEL.mx", DISCOVERY CHANNEL
 http://181.78.109.48:9998/play/a065/index.m3u8
