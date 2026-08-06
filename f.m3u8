@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml"
 
-#TV ABIERTA ____________________________________________________________________________________________________________________________
+#1.TV ABIERTA ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 tvg-id="ADN 40.mx" group-title="TV Abierta", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -99,7 +99,7 @@ http://38.49.128.38:8000/play/a0ov/index.m3u8
 
 
 
-# NIÑOS ____________________________________________________________________________________________________________________________
+# 2.NIÑOS ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Niños", BABY TV
 http://45.171.64.30:8800/play/a008
@@ -145,7 +145,7 @@ http://181.224.200.5:2277/play/a0bm/index.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8                  
 
 
-# ESTILO DE VIDA ____________________________________________________________________________________________________________________________
+# 3.ESTILO DE VIDA ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Estilo de vida", LIFETIME
 http://181.78.8.199:8000/play/a0ai/index.m3u8
@@ -174,7 +174,7 @@ http://38.97.240.11:8000/play/a0k0/index.m3u8
 
 
 
-# DOCUMENTALES ____________________________________________________________________________________________________________________________
+# 4.DOCUMENTALES ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Documentales", A&E
 http://45.171.64.30:8800/play/a04r
@@ -217,7 +217,6 @@ http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE (Alt 1)
 http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
 
-
 #EXTINF:0 group-title="Documentales", DISCOVERY ID
 http://45.166.93.156:9999/play/a0i8/index.m3u8
 
@@ -240,8 +239,9 @@ http://186.33.25.234:8125/play/a06a/index.m3u8
 #EXTINF:0 group-title="Documentales" tvg-id="LOVE NATURE.mx", LOVE NATURE
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:0 group-title="Documentales", LOVE NATURE (Alt)
+http://186.33.57.220:8000/play/a10i/index.m3u8
+#EXTINF:0 group-title="Documentales", LOVE NATURE (Alt 2)
 http://181.224.200.5:2277/play/a036/index.m3u8
-#http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 
 #EXTINF:0 group-title="Documentales", NATURE TIME
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
@@ -278,7 +278,7 @@ http://181.78.8.199:8000/play/a0cq/index.m3u8
 
 
 
-# DEPORTES _________________________________________________________________________________________________________________________________________________________________
+# 5.DEPORTES _________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804", DSPORTS
 http://190.108.93.180:8000/play/a054/index.m3u8
@@ -354,7 +354,7 @@ http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
 http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 
 
-# MUSICA ____________________________________________________________________________________________________________________________
+# 6.MUSICA ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Musica" tvg-id="BANDAMAX.mx", BANDAMAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
@@ -413,7 +413,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 http://181.78.7.90:12500/play/a0pi/index.m3u8
 
 
-# NOVELAS Y SERIES ____________________________________________________________________________________________________________________________
+# 7.NOVELAS Y SERIES ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Novelas", TLNOVELAS
 http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
@@ -447,7 +447,7 @@ http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
 http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 
 
-# PELICULAS ____________________________________________________________________________________________________________________________
+# 8.PELICULAS ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Peliculas", AMC
 http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
