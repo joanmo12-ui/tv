@@ -58,14 +58,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 group-title="TV Abierta", EL NUEVE
 http://38.49.128.38:8000/play/a0ow/index.m3u8
 
-#EXTINF:0 group-title="TV Abierta", AZCORAZON
-http://45.5.119.43:4000/play/a0g6/index.m3u8
-
-#EXTINF:0 group-title="TV Abierta", AZMUNDO
-http://45.5.119.43:4000/play/a0h8/index.m3u8
-
-#EXTINF:0 group-title="TV Abierta", AZCLICK
-http://38.49.128.38:8000/play/a0mh/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta", CANAL 22
 http://38.49.128.38:8000/play/a0d7/index.m3u8
@@ -81,13 +73,23 @@ http://45.171.64.30:8800/play/a05d
 http://187.245.231.226:8000/play/a0q3/index.m3u8
 
 
-# --- COMEDIA Y ENTRETENIMIENTO ---
+# 2. COMEDIA Y ENTRETENIMIENTO ____________________________________________________________________________________________________________________________
+
 #EXTINF:0 group-title="Comedia", DISTRITO COMEDIA
 http://181.78.8.199:8000/play/a0e3/index.m3u8
 #EXTINF:0 group-title="Comedia", DISTRITO COMEDIA (Alt)
 http://45.5.119.43:4000/play/a05l/index.m3u8
+
 #EXTINF:0 group-title="Comedia", COMEDY CENTRAL
 http://38.49.128.38:8000/play/a0b3/index.m3u8
+#EXTINF:0 group-title="Comedia", COMEDY CENTRAL (Alt)
+http://181.65.191.173:8069/play/a0fz
+
+#EXTINF:0 group-title="Comedia", UNIVERSAL COMEDY
+http://181.65.191.173:8069/play/a03m
+#EXTINF:0 group-title="Comedia", UNIVERSAL COMEDY (Alt)
+http://45.166.93.156:9999/play/a0ev/index.m3u8
+
 
 #EXTINF:0 group-title="Entretenimiento", UNICABLE
 http://190.61.101.11:7050/play/a04j/index.m3u8?hls
@@ -99,7 +101,7 @@ http://38.49.128.38:8000/play/a0ov/index.m3u8
 
 
 
-# 2.NIÑOS ____________________________________________________________________________________________________________________________
+# 3.NIÑOS ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Niños", BABY TV
 http://45.171.64.30:8800/play/a008
@@ -145,7 +147,7 @@ http://181.224.200.5:2277/play/a0bm/index.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8                  
 
 
-# 3.ESTILO DE VIDA ____________________________________________________________________________________________________________________________
+# 4.ESTILO DE VIDA ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Estilo de vida", LIFETIME
 http://181.78.8.199:8000/play/a0ai/index.m3u8
@@ -174,7 +176,7 @@ http://38.97.240.11:8000/play/a0k0/index.m3u8
 
 
 
-# 4.DOCUMENTALES ____________________________________________________________________________________________________________________________
+# 5.DOCUMENTALES ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Documentales", A&E
 http://45.171.64.30:8800/play/a04r
@@ -275,45 +277,7 @@ http://181.78.8.199:8000/play/a071/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 3)
 http://45.5.119.43:4000/play/a0hw/index.m3u8
 
-# 5.DEPORTES _________________________________________________________________________________________________________________________________________________________________
-
-#EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804", DSPORTS
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS (Alt)
-http://190.61.41.181:8000/play/a0r5/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS (Alt 1)
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS (Alt 2)
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS (Alt 3)
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
-
-#EXTINF:0 group-title="Deportes", DAZN
-https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
-
-#EXTINF:0 group-title="Deportes", DAZN (Alt)
-http://94.176.111.120:8080/live/7621755423047869/687aa5277772/73777.m3u8?token=Q0FaWEpZFFsXAABWVFAMUwcCAgNRDl1TUwcJBVBXBwRaAFYPCAQHVFQVGEZGFUdTUl9qWwIVAlZRBAdTGENHQ10RbVBdEwxDDAUEUg1YFxoRRlxfAxUCUU4RQA1QQwgSClQCCAATGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsIBwdYFxsWB1oUW0JBSxcIRHpgQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbBABXDAUWGQ==
-
-#EXTINF:0 group-title="Deportes", DSPORTS 2
-http://190.61.41.181:8000/play/a0r4/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS 2 (Alt)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS+
-http://38.199.5.160:8000/play/a09q/index.m3u8 
-#EXTINF:0 group-title="Deportes", DSPORTS+ (Alt)
-https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
-#EXTINF:0 group-title="Deportes", DSPORTS+ (Alt 2)
-http://190.108.83.69:8000/play/a05w/index.m3u8
-
-#EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241", WIN SPORTS
-http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
-#EXTINF:0 group-title="Deportes", WIN SPORTS (Alt)
-http://astra.fibernetisp.com.co/play/a04g/index.m3u8
-#EXTINF:0 group-title="Deportes" logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png", WIN SPORTS+
-http://205.235.6.29:8000/play/a10e/index.m3u8?hls
-#EXTINF:0 group-title="Deportes", WIN SPORTS+ (Alt)
-http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
+# 6.DEPORTES _________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Deportes" tvg-id="TUDN.mx", TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
@@ -335,11 +299,6 @@ http://45.166.93.156:9999/play/a09h/index.m3u8
 #EXTINF:0 group-title="Deportes", ESPN HD (Alt)
 http://45.166.93.156:9999/play/a0hx/index.m3u8
 
-#EXTINF:0 group-title="Deportes", ESPN 2 HD
-http://181.78.7.90:12500/play/a0md/index.m3u8
-#EXTINF:0 group-title="Deportes", ESPN 3 HD
-http://181.78.7.90:12500/play/a0nb/index.m3u8
-
 #EXTINF:0 group-title="Deportes", SKY DEPORTES
 http://190.61.101.11:7050/play/a04g/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", SKY DEPORTES (Alt)
@@ -350,8 +309,17 @@ http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
 #EXTINF:0 group-title="Deportes", TNT SPORTS (Alt)
 http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 
+#EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804", DSPORTS
+http://190.108.93.180:8000/play/a054/index.m3u8
 
-# 6.MUSICA ____________________________________________________________________________________________________________________________
+#EXTINF:0 group-title="Deportes", DAZN
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
+#EXTINF:0 group-title="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241", WIN SPORTS
+http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
+
+
+# 7.MUSICA ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Musica" tvg-id="BANDAMAX.mx", BANDAMAX
 http://181.78.8.199:8000/play/a0g9/index.m3u8
@@ -410,7 +378,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 http://181.78.7.90:12500/play/a0pi/index.m3u8
 
 
-# 7.NOVELAS Y SERIES ____________________________________________________________________________________________________________________________
+# 8.NOVELAS Y SERIES ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Novelas", TLNOVELAS
 http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
@@ -444,7 +412,7 @@ http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
 http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 
 
-# 8.PELICULAS ____________________________________________________________________________________________________________________________
+# 9.PELICULAS ____________________________________________________________________________________________________________________________
 
 #EXTINF:0 group-title="Peliculas", AMC
 http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
@@ -525,7 +493,6 @@ http://45.5.119.43:4000/play/a0l6/index.m3u8
 
 #EXTINF:0 group-title="Peliculas", PARAMOUNT (Alt)
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-
 
 #EXTINF:0 group-title="Peliculas", SONY
 http://astra.fibernetisp.com.co/play/a05m/index.m3u8
