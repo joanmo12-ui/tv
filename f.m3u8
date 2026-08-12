@@ -230,6 +230,20 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #EXTINF:0 group-title="Documentales", TV NATURALEZA
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
+#EXTINF:0 group-title="Documentales", HISTORY
+http://45.5.119.43:4000/play/a0gk/index.m3u8
+#EXTINF:0 group-title="Documentales", HISTORY (Alt)
+http://190.171.83.2:4000/play/a0po/index.m3u8
+#EXTINF:0 group-title="Documentales", HISTORY (Alt 2)
+http://181.78.8.199:8000/play/a0an/index.m3u8
+
+#EXTINF:0 group-title="Documentales", HISTORY 2
+http://45.5.119.43:4000/play/a0jp/index.m3u8
+#EXTINF:0 group-title="Documentales", HISTORY 2 (Alt)
+http://181.78.8.199:8000/play/a0ag/index.m3u8
+#EXTINF:0 group-title="Documentales", HISTORY 2 (Alt 2)
+http://181.78.8.199:8000/play/a0cq/index.m3u8
+
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE
 http://45.166.93.156:9999/play/a0hi/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE (Alt)
@@ -247,31 +261,19 @@ http://8.243.126.131:8000/play/a0go/index.m3u8?hls
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO (Alt 2)
 http://45.170.130.224:8000/play/a03q/index.m3u8
 
+#EXTINF:0 group-title="Documentales", DISCOVERY WORLD
+http://190.83.85.68/discovery_world/index.m3u8
+
 #EXTINF:0 group-title="Documentales" tvg-id="DISCOVERY HOME AND HEALTH.mx", HOME & HEALTH
-http://181.78.109.48:9998/play/a05e/index.m3u8
+http://181.65.191.173:8069/play/a03d
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt)
-http://38.199.4.160:93/play/a0be
+http://186.33.57.220:8000/play/a0yv/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 1)
 http://38.97.240.11:8000/play/a040/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 2)
 http://181.78.8.199:8000/play/a071/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 3)
 http://45.5.119.43:4000/play/a0hw/index.m3u8
-
-#EXTINF:0 group-title="Documentales", HISTORY
-http://45.5.119.43:4000/play/a0gk/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY (Alt)
-http://190.171.83.2:4000/play/a0po/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY (Alt 2)
-http://181.78.8.199:8000/play/a0an/index.m3u8
-
-#EXTINF:0 group-title="Documentales", HISTORY 2
-http://45.5.119.43:4000/play/a0jp/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY 2 (Alt)
-http://181.78.8.199:8000/play/a0ag/index.m3u8
-#EXTINF:0 group-title="Documentales", HISTORY 2 (Alt 2)
-http://181.78.8.199:8000/play/a0cq/index.m3u8
-
 
 # 5.DEPORTES _________________________________________________________________________________________________________________________________________________________________
 
