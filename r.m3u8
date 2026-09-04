@@ -1,4 +1,7 @@
 #EXTM3U
 # --- RADIO ABIERTA ---
+#EXTINF:0 group-title="Radio", ORO Tep
+https://emisoras.com.mx/oro-fm-88-1-tepezala/
+
 #EXTINF:0 group-title="Radio", Radio
 https://www.tdtchannels.com/lists/radio.m3u8
