@@ -344,11 +344,9 @@ http://209.87.175.160:5001/play/a0ls/index.m3u8?hls
 http://38.49.128.38:8000/play/a0ls/index.m3u8
 
 #EXTINF:0 group-title="Musica", TELEHIT
-http://181.78.21.174:8015/play/a003/index.m3u8
+https://nomvauth.univision.com/api/v3/video-auth/url-signature-token-by-id?mcpid=1373380&mcpOrigin=MX
 #EXTINF:0 group-title="Musica", TELEHIT(Alt)
 http://45.5.118.152:8000/play/a08r/index.m3u8
-#EXTINF:0 group-title="Musica", TELEHIT LAT(Alt 2)
-http://181.78.21.174:8015/play/a005/index.m3u8
 
 #EXTINF:0 group-title="Musica", MTV
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
