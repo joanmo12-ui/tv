@@ -6,7 +6,7 @@
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno
-http://45.189.62.33:8002/play/a0cc/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno (Alt)
 http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
 #EXTINF:0 group-title="TV Abierta" tvg-id="AZTECA UNO.mx", Azteca Uno (Alt 2)
