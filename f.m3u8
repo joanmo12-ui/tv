@@ -14,20 +14,14 @@ https://190.60.52.28:5001/play/a0co/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png", Azteca Uno -1 Hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-#EXTINF:0 group-title="TV Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png", Azteca Uno -1 Hora
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-
 
 #EXTINF:0 group-title="TV Abierta" tvg-id="CANAL DE LAS ESTRELLAS.mx", LAS ESTRELLAS
-http://45.5.118.152:8000/play/a08a/index.m3u8
-#EXTINF:0 group-title="TV Abierta" tvg-id="CANAL DE LAS ESTRELLAS.mx", LAS ESTRELLAS (Alt)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-#EXTINF:0 group-title="TV Abierta", LAS ESTRELLAS (Alt 2)
+#EXTINF:0 group-title="TV Abierta" tvg-id="CANAL DE LAS ESTRELLAS.mx", LAS ESTRELLAS (Alt)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:0 group-title="TV Abierta" logo="https://startvmexico.com/wp-content/uploads/2023/01/C_186.png", FORO TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
-
 
 #EXTINF:0 group-title="TV Abierta", IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
