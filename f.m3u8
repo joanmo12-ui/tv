@@ -216,9 +216,9 @@ http://154.12.107.98:8000/play/a09m
 #EXTINF:0 group-title="Documentales" tvg-id="LOVE NATURE.mx", LOVE NATURE
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:0 group-title="Documentales", LOVE NATURE (Alt)
-http://186.33.57.220:8000/play/a10i/index.m3u8
-#EXTINF:0 group-title="Documentales", LOVE NATURE (Alt 2)
 http://181.224.200.5:2277/play/a036/index.m3u8
+#EXTINF:0 group-title="Documentales", LOVE NATURE (Alt 2)
+http://186.33.57.220:8000/play/a10i/index.m3u8
 
 #EXTINF:0 group-title="Documentales", NATURE TIME
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
@@ -229,11 +229,13 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
 #EXTINF:0 group-title="Documentales", HISTORY
+http://181.78.8.199:8000/play/a0an/index.m3u8
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY (Alt)
+
 http://190.171.83.2:4000/play/a0po/index.m3u8
 #EXTINF:0 group-title="Documentales", HISTORY (Alt 2)
-http://181.78.8.199:8000/play/a0an/index.m3u8
+
 
 #EXTINF:0 group-title="Documentales", HISTORY 2
 http://45.5.119.43:4000/play/a0jp/index.m3u8
