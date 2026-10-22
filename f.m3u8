@@ -245,33 +245,39 @@ http://181.78.8.199:8000/play/a0cq/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE
 http://45.166.93.156:9999/play/a0hi/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE (Alt)
-http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+http://200.123.40.1:8000/play/a049/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY SCIENCE (Alt 1)
-http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
+http://154.12.107.98:8000/play/a089
+
 
 #EXTINF:0 group-title="Documentales", DISCOVERY ID
-http://45.166.93.156:9999/play/a0i8/index.m3u8
+http://154.12.107.98:8000/play/a0a9
+#EXTINF:0 group-title="Documentales", DISCOVERY ID(Alt)
+http://154.12.107.98:8000/play/a07m
 
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO
 http://45.166.93.156:9999/play/a0f6/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO (Alt)
-http://8.243.126.131:8000/play/a0go/index.m3u8?hls
+http://200.123.40.1:8000/play/a04b/index.m3u8
 #EXTINF:0 group-title="Documentales", DISCOVERY TURBO (Alt 2)
 http://45.170.130.224:8000/play/a03q/index.m3u8
 
 #EXTINF:0 group-title="Documentales", DISCOVERY WORLD
-http://190.83.85.68/discovery_world/index.m3u8
+http://200.123.40.1:8000/play/a04c/index.m3u8
+#EXTINF:0 group-title="Documentales", DISCOVERY WORLD(Alt)
+http://199.188.103.176:8000/play/a0g1/index.m3u8
 
 #EXTINF:0 group-title="Documentales" tvg-id="DISCOVERY HOME AND HEALTH.mx", HOME & HEALTH
 http://181.65.191.173:8069/play/a03d
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt)
-http://186.33.57.220:8000/play/a0yv/index.m3u8
+http://200.123.40.1:8000/play/a048/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 1)
+http://154.12.107.98:8000/play/a0ae
 http://38.97.240.11:8000/play/a040/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 2)
 http://181.78.8.199:8000/play/a071/index.m3u8
 #EXTINF:0 group-title="Documentales", HOME & HEALTH (Alt 3)
-http://45.5.119.43:4000/play/a0hw/index.m3u8
+http://45.166.93.156:9999/play/a0f7/index.m3u8
 
 # 6.DEPORTES _________________________________________________________________________________________________________________________________________________________________
 
